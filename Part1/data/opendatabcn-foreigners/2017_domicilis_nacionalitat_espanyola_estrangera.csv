@@ -1,0 +1,585 @@
+Any,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Nacionalitat,Nombre
+2017,1,Ciutat Vella,1,el Raval,1 espanyol,6030
+2017,1,Ciutat Vella,2,el Barri Gòtic,1 espanyol,2371
+2017,1,Ciutat Vella,3,la Barceloneta,1 espanyol,2423
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",1 espanyol,3794
+2017,2,Eixample,5,el Fort Pienc,1 espanyol,4180
+2017,2,Eixample,6,la Sagrada Família,1 espanyol,7543
+2017,2,Eixample,7,la Dreta de l'Eixample,1 espanyol,6316
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1 espanyol,6556
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,1 espanyol,8469
+2017,2,Eixample,10,Sant Antoni,1 espanyol,5955
+2017,3,Sants-Montjuïc,11,el Poble Sec,1 espanyol,5594
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,1 espanyol,168
+2017,3,Sants-Montjuïc,13,la Marina de Port,1 espanyol,3388
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,1 espanyol,1465
+2017,3,Sants-Montjuïc,15,Hostafrancs,1 espanyol,2256
+2017,3,Sants-Montjuïc,16,la Bordeta,1 espanyol,2270
+2017,3,Sants-Montjuïc,17,Sants - Badal,1 espanyol,3198
+2017,3,Sants-Montjuïc,18,Sants,1 espanyol,5941
+2017,4,Les Corts,19,les Corts,1 espanyol,5906
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,1 espanyol,2828
+2017,4,Les Corts,21,Pedralbes,1 espanyol,1083
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",1 espanyol,373
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,1 espanyol,2466
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,1 espanyol,1344
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,1 espanyol,2688
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,1 espanyol,5891
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,1 espanyol,4129
+2017,6,Gràcia,28,Vallcarca i els Penitents,1 espanyol,2097
+2017,6,Gràcia,29,el Coll,1 espanyol,984
+2017,6,Gràcia,30,la Salut,1 espanyol,1748
+2017,6,Gràcia,31,la Vila de Gràcia,1 espanyol,8692
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,1 espanyol,5051
+2017,7,Horta-Guinardó,33,el Baix Guinardó,1 espanyol,3645
+2017,7,Horta-Guinardó,34,Can Baró,1 espanyol,1265
+2017,7,Horta-Guinardó,35,el Guinardó,1 espanyol,5125
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,1 espanyol,952
+2017,7,Horta-Guinardó,37,el Carmel,1 espanyol,3730
+2017,7,Horta-Guinardó,38,la Teixonera,1 espanyol,1425
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,1 espanyol,876
+2017,7,Horta-Guinardó,40,Montbau,1 espanyol,745
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,1 espanyol,684
+2017,7,Horta-Guinardó,42,la Clota,1 espanyol,88
+2017,7,Horta-Guinardó,43,Horta,1 espanyol,3194
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,1 espanyol,3262
+2017,8,Nou Barris,45,Porta,1 espanyol,3256
+2017,8,Nou Barris,46,el Turó de la Peira,1 espanyol,2177
+2017,8,Nou Barris,47,Can Peguera,1 espanyol,308
+2017,8,Nou Barris,48,la Guineueta,1 espanyol,1749
+2017,8,Nou Barris,49,Canyelles,1 espanyol,715
+2017,8,Nou Barris,50,les Roquetes,1 espanyol,1663
+2017,8,Nou Barris,51,Verdun,1 espanyol,1734
+2017,8,Nou Barris,52,la Prosperitat,1 espanyol,3208
+2017,8,Nou Barris,53,la Trinitat Nova,1 espanyol,971
+2017,8,Nou Barris,54,Torre Baró,1 espanyol,230
+2017,8,Nou Barris,55,Ciutat Meridiana,1 espanyol,965
+2017,8,Nou Barris,56,Vallbona,1 espanyol,136
+2017,9,Sant Andreu,57,la Trinitat Vella,1 espanyol,920
+2017,9,Sant Andreu,58,Baró de Viver,1 espanyol,299
+2017,9,Sant Andreu,59,el Bon Pastor,1 espanyol,1144
+2017,9,Sant Andreu,60,Sant Andreu,1 espanyol,6801
+2017,9,Sant Andreu,61,la Sagrera,1 espanyol,3451
+2017,9,Sant Andreu,62,el Congrés i els Indians,1 espanyol,2013
+2017,9,Sant Andreu,63,Navas,1 espanyol,2752
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,1 espanyol,5524
+2017,10,Sant Martí,65,el Clot,1 espanyol,3104
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,1 espanyol,1965
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,1 espanyol,809
+2017,10,Sant Martí,68,el Poblenou,1 espanyol,4139
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,1 espanyol,1577
+2017,10,Sant Martí,70,el Besòs i el Maresme,1 espanyol,2401
+2017,10,Sant Martí,71,Provençals del Poblenou,1 espanyol,2213
+2017,10,Sant Martí,72,Sant Martí de Provençals,1 espanyol,3189
+2017,10,Sant Martí,73,la Verneda i la Pau,1 espanyol,3093
+2017,1,Ciutat Vella,1,el Raval,2 espanyols,3135
+2017,1,Ciutat Vella,2,el Barri Gòtic,2 espanyols,1166
+2017,1,Ciutat Vella,3,la Barceloneta,2 espanyols,1427
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",2 espanyols,1911
+2017,2,Eixample,5,el Fort Pienc,2 espanyols,3333
+2017,2,Eixample,6,la Sagrada Família,2 espanyols,5911
+2017,2,Eixample,7,la Dreta de l'Eixample,2 espanyols,4324
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,2 espanyols,4470
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,2 espanyols,6670
+2017,2,Eixample,10,Sant Antoni,2 espanyols,4325
+2017,3,Sants-Montjuïc,11,el Poble Sec,2 espanyols,3972
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,2 espanyols,102
+2017,3,Sants-Montjuïc,13,la Marina de Port,2 espanyols,3297
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,2 espanyols,1158
+2017,3,Sants-Montjuïc,15,Hostafrancs,2 espanyols,1745
+2017,3,Sants-Montjuïc,16,la Bordeta,2 espanyols,2236
+2017,3,Sants-Montjuïc,17,Sants - Badal,2 espanyols,2918
+2017,3,Sants-Montjuïc,18,Sants,2 espanyols,4721
+2017,4,Les Corts,19,les Corts,2 espanyols,5414
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,2 espanyols,2810
+2017,4,Les Corts,21,Pedralbes,2 espanyols,1010
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2 espanyols,356
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,2 espanyols,2076
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,2 espanyols,1294
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,2 espanyols,2222
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,2 espanyols,4558
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,2 espanyols,2955
+2017,6,Gràcia,28,Vallcarca i els Penitents,2 espanyols,1742
+2017,6,Gràcia,29,el Coll,2 espanyols,849
+2017,6,Gràcia,30,la Salut,2 espanyols,1510
+2017,6,Gràcia,31,la Vila de Gràcia,2 espanyols,5530
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,2 espanyols,4161
+2017,7,Horta-Guinardó,33,el Baix Guinardó,2 espanyols,3041
+2017,7,Horta-Guinardó,34,Can Baró,2 espanyols,1087
+2017,7,Horta-Guinardó,35,el Guinardó,2 espanyols,4391
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,2 espanyols,1112
+2017,7,Horta-Guinardó,37,el Carmel,2 espanyols,3803
+2017,7,Horta-Guinardó,38,la Teixonera,2 espanyols,1445
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,2 espanyols,917
+2017,7,Horta-Guinardó,40,Montbau,2 espanyols,663
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,2 espanyols,718
+2017,7,Horta-Guinardó,42,la Clota,2 espanyols,76
+2017,7,Horta-Guinardó,43,Horta,2 espanyols,3151
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,2 espanyols,3142
+2017,8,Nou Barris,45,Porta,2 espanyols,3228
+2017,8,Nou Barris,46,el Turó de la Peira,2 espanyols,1771
+2017,8,Nou Barris,47,Can Peguera,2 espanyols,268
+2017,8,Nou Barris,48,la Guineueta,2 espanyols,1989
+2017,8,Nou Barris,49,Canyelles,2 espanyols,914
+2017,8,Nou Barris,50,les Roquetes,2 espanyols,1670
+2017,8,Nou Barris,51,Verdun,2 espanyols,1542
+2017,8,Nou Barris,52,la Prosperitat,2 espanyols,3382
+2017,8,Nou Barris,53,la Trinitat Nova,2 espanyols,788
+2017,8,Nou Barris,54,Torre Baró,2 espanyols,233
+2017,8,Nou Barris,55,Ciutat Meridiana,2 espanyols,1028
+2017,8,Nou Barris,56,Vallbona,2 espanyols,120
+2017,9,Sant Andreu,57,la Trinitat Vella,2 espanyols,923
+2017,9,Sant Andreu,58,Baró de Viver,2 espanyols,262
+2017,9,Sant Andreu,59,el Bon Pastor,2 espanyols,1226
+2017,9,Sant Andreu,60,Sant Andreu,2 espanyols,7164
+2017,9,Sant Andreu,61,la Sagrera,2 espanyols,3687
+2017,9,Sant Andreu,62,el Congrés i els Indians,2 espanyols,1695
+2017,9,Sant Andreu,63,Navas,2 espanyols,2694
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,2 espanyols,4606
+2017,10,Sant Martí,65,el Clot,2 espanyols,2955
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,2 espanyols,1651
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,2 espanyols,851
+2017,10,Sant Martí,68,el Poblenou,2 espanyols,3370
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,2 espanyols,1352
+2017,10,Sant Martí,70,el Besòs i el Maresme,2 espanyols,2274
+2017,10,Sant Martí,71,Provençals del Poblenou,2 espanyols,2276
+2017,10,Sant Martí,72,Sant Martí de Provençals,2 espanyols,3190
+2017,10,Sant Martí,73,la Verneda i la Pau,2 espanyols,3651
+2017,1,Ciutat Vella,1,el Raval,3 espanyols,1563
+2017,1,Ciutat Vella,2,el Barri Gòtic,3 espanyols,541
+2017,1,Ciutat Vella,3,la Barceloneta,3 espanyols,676
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",3 espanyols,877
+2017,2,Eixample,5,el Fort Pienc,3 espanyols,2113
+2017,2,Eixample,6,la Sagrada Família,3 espanyols,3393
+2017,2,Eixample,7,la Dreta de l'Eixample,3 espanyols,2574
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,3 espanyols,2527
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,3 espanyols,3799
+2017,2,Eixample,10,Sant Antoni,3 espanyols,2422
+2017,3,Sants-Montjuïc,11,el Poble Sec,3 espanyols,2210
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,3 espanyols,64
+2017,3,Sants-Montjuïc,13,la Marina de Port,3 espanyols,2303
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,3 espanyols,700
+2017,3,Sants-Montjuïc,15,Hostafrancs,3 espanyols,1030
+2017,3,Sants-Montjuïc,16,la Bordeta,3 espanyols,1464
+2017,3,Sants-Montjuïc,17,Sants - Badal,3 espanyols,1733
+2017,3,Sants-Montjuïc,18,Sants,3 espanyols,2804
+2017,4,Les Corts,19,les Corts,3 espanyols,3356
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,3 espanyols,1811
+2017,4,Les Corts,21,Pedralbes,3 espanyols,703
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",3 espanyols,309
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,3 espanyols,1433
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,3 espanyols,891
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,3 espanyols,1495
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,3 espanyols,2797
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,3 espanyols,1810
+2017,6,Gràcia,28,Vallcarca i els Penitents,3 espanyols,1062
+2017,6,Gràcia,29,el Coll,3 espanyols,558
+2017,6,Gràcia,30,la Salut,3 espanyols,888
+2017,6,Gràcia,31,la Vila de Gràcia,3 espanyols,3043
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,3 espanyols,2517
+2017,7,Horta-Guinardó,33,el Baix Guinardó,3 espanyols,1904
+2017,7,Horta-Guinardó,34,Can Baró,3 espanyols,626
+2017,7,Horta-Guinardó,35,el Guinardó,3 espanyols,2643
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,3 espanyols,741
+2017,7,Horta-Guinardó,37,el Carmel,3 espanyols,2454
+2017,7,Horta-Guinardó,38,la Teixonera,3 espanyols,909
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,3 espanyols,482
+2017,7,Horta-Guinardó,40,Montbau,3 espanyols,334
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,3 espanyols,474
+2017,7,Horta-Guinardó,42,la Clota,3 espanyols,60
+2017,7,Horta-Guinardó,43,Horta,3 espanyols,1941
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,3 espanyols,1939
+2017,8,Nou Barris,45,Porta,3 espanyols,1863
+2017,8,Nou Barris,46,el Turó de la Peira,3 espanyols,951
+2017,8,Nou Barris,47,Can Peguera,3 espanyols,158
+2017,8,Nou Barris,48,la Guineueta,3 espanyols,1212
+2017,8,Nou Barris,49,Canyelles,3 espanyols,597
+2017,8,Nou Barris,50,les Roquetes,3 espanyols,1063
+2017,8,Nou Barris,51,Verdun,3 espanyols,832
+2017,8,Nou Barris,52,la Prosperitat,3 espanyols,1977
+2017,8,Nou Barris,53,la Trinitat Nova,3 espanyols,466
+2017,8,Nou Barris,54,Torre Baró,3 espanyols,173
+2017,8,Nou Barris,55,Ciutat Meridiana,3 espanyols,612
+2017,8,Nou Barris,56,Vallbona,3 espanyols,82
+2017,9,Sant Andreu,57,la Trinitat Vella,3 espanyols,603
+2017,9,Sant Andreu,58,Baró de Viver,3 espanyols,174
+2017,9,Sant Andreu,59,el Bon Pastor,3 espanyols,868
+2017,9,Sant Andreu,60,Sant Andreu,3 espanyols,4807
+2017,9,Sant Andreu,61,la Sagrera,3 espanyols,2240
+2017,9,Sant Andreu,62,el Congrés i els Indians,3 espanyols,1032
+2017,9,Sant Andreu,63,Navas,3 espanyols,1637
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,3 espanyols,2775
+2017,10,Sant Martí,65,el Clot,3 espanyols,1994
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,3 espanyols,1038
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,3 espanyols,664
+2017,10,Sant Martí,68,el Poblenou,3 espanyols,2321
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,3 espanyols,935
+2017,10,Sant Martí,70,el Besòs i el Maresme,3 espanyols,1398
+2017,10,Sant Martí,71,Provençals del Poblenou,3 espanyols,1646
+2017,10,Sant Martí,72,Sant Martí de Provençals,3 espanyols,1981
+2017,10,Sant Martí,73,la Verneda i la Pau,3 espanyols,2231
+2017,1,Ciutat Vella,1,el Raval,4 espanyols o més,1423
+2017,1,Ciutat Vella,2,el Barri Gòtic,4 espanyols o més,433
+2017,1,Ciutat Vella,3,la Barceloneta,4 espanyols o més,562
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",4 espanyols o més,690
+2017,2,Eixample,5,el Fort Pienc,4 espanyols o més,1720
+2017,2,Eixample,6,la Sagrada Família,4 espanyols o més,2806
+2017,2,Eixample,7,la Dreta de l'Eixample,4 espanyols o més,2643
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,4 espanyols o més,2398
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,4 espanyols o més,3377
+2017,2,Eixample,10,Sant Antoni,4 espanyols o més,1929
+2017,3,Sants-Montjuïc,11,el Poble Sec,4 espanyols o més,1696
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,4 espanyols o més,95
+2017,3,Sants-Montjuïc,13,la Marina de Port,4 espanyols o més,2151
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,4 espanyols o més,560
+2017,3,Sants-Montjuïc,15,Hostafrancs,4 espanyols o més,831
+2017,3,Sants-Montjuïc,16,la Bordeta,4 espanyols o més,1130
+2017,3,Sants-Montjuïc,17,Sants - Badal,4 espanyols o més,1314
+2017,3,Sants-Montjuïc,18,Sants,4 espanyols o més,2339
+2017,4,Les Corts,19,les Corts,4 espanyols o més,3182
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,4 espanyols o més,1714
+2017,4,Les Corts,21,Pedralbes,4 espanyols o més,986
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",4 espanyols o més,411
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,4 espanyols o més,2224
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,4 espanyols o més,1744
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,4 espanyols o més,2358
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,4 espanyols o més,3994
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,4 espanyols o més,2279
+2017,6,Gràcia,28,Vallcarca i els Penitents,4 espanyols o més,1062
+2017,6,Gràcia,29,el Coll,4 espanyols o més,466
+2017,6,Gràcia,30,la Salut,4 espanyols o més,869
+2017,6,Gràcia,31,la Vila de Gràcia,4 espanyols o més,2552
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,4 espanyols o més,2060
+2017,7,Horta-Guinardó,33,el Baix Guinardó,4 espanyols o més,1526
+2017,7,Horta-Guinardó,34,Can Baró,4 espanyols o més,554
+2017,7,Horta-Guinardó,35,el Guinardó,4 espanyols o més,2213
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,4 espanyols o més,791
+2017,7,Horta-Guinardó,37,el Carmel,4 espanyols o més,1983
+2017,7,Horta-Guinardó,38,la Teixonera,4 espanyols o més,707
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,4 espanyols o més,416
+2017,7,Horta-Guinardó,40,Montbau,4 espanyols o més,286
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,4 espanyols o més,389
+2017,7,Horta-Guinardó,42,la Clota,4 espanyols o més,29
+2017,7,Horta-Guinardó,43,Horta,4 espanyols o més,1894
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,4 espanyols o més,1599
+2017,8,Nou Barris,45,Porta,4 espanyols o més,1309
+2017,8,Nou Barris,46,el Turó de la Peira,4 espanyols o més,826
+2017,8,Nou Barris,47,Can Peguera,4 espanyols o més,160
+2017,8,Nou Barris,48,la Guineueta,4 espanyols o més,1083
+2017,8,Nou Barris,49,Canyelles,4 espanyols o més,527
+2017,8,Nou Barris,50,les Roquetes,4 espanyols o més,954
+2017,8,Nou Barris,51,Verdun,4 espanyols o més,623
+2017,8,Nou Barris,52,la Prosperitat,4 espanyols o més,1528
+2017,8,Nou Barris,53,la Trinitat Nova,4 espanyols o més,426
+2017,8,Nou Barris,54,Torre Baró,4 espanyols o més,237
+2017,8,Nou Barris,55,Ciutat Meridiana,4 espanyols o més,571
+2017,8,Nou Barris,56,Vallbona,4 espanyols o més,109
+2017,9,Sant Andreu,57,la Trinitat Vella,4 espanyols o més,587
+2017,9,Sant Andreu,58,Baró de Viver,4 espanyols o més,196
+2017,9,Sant Andreu,59,el Bon Pastor,4 espanyols o més,999
+2017,9,Sant Andreu,60,Sant Andreu,4 espanyols o més,4045
+2017,9,Sant Andreu,61,la Sagrera,4 espanyols o més,1827
+2017,9,Sant Andreu,62,el Congrés i els Indians,4 espanyols o més,880
+2017,9,Sant Andreu,63,Navas,4 espanyols o més,1403
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,4 espanyols o més,2094
+2017,10,Sant Martí,65,el Clot,4 espanyols o més,1930
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,4 espanyols o més,820
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,4 espanyols o més,778
+2017,10,Sant Martí,68,el Poblenou,4 espanyols o més,2327
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,4 espanyols o més,944
+2017,10,Sant Martí,70,el Besòs i el Maresme,4 espanyols o més,1233
+2017,10,Sant Martí,71,Provençals del Poblenou,4 espanyols o més,1416
+2017,10,Sant Martí,72,Sant Martí de Provençals,4 espanyols o més,1705
+2017,10,Sant Martí,73,la Verneda i la Pau,4 espanyols o més,1935
+2017,1,Ciutat Vella,1,el Raval,1 estranger,3353
+2017,1,Ciutat Vella,2,el Barri Gòtic,1 estranger,1485
+2017,1,Ciutat Vella,3,la Barceloneta,1 estranger,1404
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",1 estranger,2332
+2017,2,Eixample,5,el Fort Pienc,1 estranger,1493
+2017,2,Eixample,6,la Sagrada Família,1 estranger,2373
+2017,2,Eixample,7,la Dreta de l'Eixample,1 estranger,2806
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1 estranger,2590
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,1 estranger,2656
+2017,2,Eixample,10,Sant Antoni,1 estranger,2033
+2017,3,Sants-Montjuïc,11,el Poble Sec,1 estranger,2347
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,1 estranger,28
+2017,3,Sants-Montjuïc,13,la Marina de Port,1 estranger,827
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,1 estranger,456
+2017,3,Sants-Montjuïc,15,Hostafrancs,1 estranger,775
+2017,3,Sants-Montjuïc,16,la Bordeta,1 estranger,563
+2017,3,Sants-Montjuïc,17,Sants - Badal,1 estranger,895
+2017,3,Sants-Montjuïc,18,Sants,1 estranger,1726
+2017,4,Les Corts,19,les Corts,1 estranger,1568
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,1 estranger,750
+2017,4,Les Corts,21,Pedralbes,1 estranger,435
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",1 estranger,195
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,1 estranger,917
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,1 estranger,496
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,1 estranger,956
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,1 estranger,2024
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,1 estranger,1384
+2017,6,Gràcia,28,Vallcarca i els Penitents,1 estranger,653
+2017,6,Gràcia,29,el Coll,1 estranger,312
+2017,6,Gràcia,30,la Salut,1 estranger,531
+2017,6,Gràcia,31,la Vila de Gràcia,1 estranger,3191
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,1 estranger,1461
+2017,7,Horta-Guinardó,33,el Baix Guinardó,1 estranger,924
+2017,7,Horta-Guinardó,34,Can Baró,1 estranger,361
+2017,7,Horta-Guinardó,35,el Guinardó,1 estranger,1320
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,1 estranger,211
+2017,7,Horta-Guinardó,37,el Carmel,1 estranger,886
+2017,7,Horta-Guinardó,38,la Teixonera,1 estranger,365
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,1 estranger,232
+2017,7,Horta-Guinardó,40,Montbau,1 estranger,127
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,1 estranger,103
+2017,7,Horta-Guinardó,42,la Clota,1 estranger,17
+2017,7,Horta-Guinardó,43,Horta,1 estranger,609
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,1 estranger,669
+2017,8,Nou Barris,45,Porta,1 estranger,665
+2017,8,Nou Barris,46,el Turó de la Peira,1 estranger,502
+2017,8,Nou Barris,47,Can Peguera,1 estranger,56
+2017,8,Nou Barris,48,la Guineueta,1 estranger,273
+2017,8,Nou Barris,49,Canyelles,1 estranger,86
+2017,8,Nou Barris,50,les Roquetes,1 estranger,466
+2017,8,Nou Barris,51,Verdun,1 estranger,350
+2017,8,Nou Barris,52,la Prosperitat,1 estranger,607
+2017,8,Nou Barris,53,la Trinitat Nova,1 estranger,201
+2017,8,Nou Barris,54,Torre Baró,1 estranger,84
+2017,8,Nou Barris,55,Ciutat Meridiana,1 estranger,333
+2017,8,Nou Barris,56,Vallbona,1 estranger,40
+2017,9,Sant Andreu,57,la Trinitat Vella,1 estranger,351
+2017,9,Sant Andreu,58,Baró de Viver,1 estranger,80
+2017,9,Sant Andreu,59,el Bon Pastor,1 estranger,285
+2017,9,Sant Andreu,60,Sant Andreu,1 estranger,1291
+2017,9,Sant Andreu,61,la Sagrera,1 estranger,833
+2017,9,Sant Andreu,62,el Congrés i els Indians,1 estranger,404
+2017,9,Sant Andreu,63,Navas,1 estranger,683
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,1 estranger,1530
+2017,10,Sant Martí,65,el Clot,1 estranger,911
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,1 estranger,733
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,1 estranger,471
+2017,10,Sant Martí,68,el Poblenou,1 estranger,1568
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,1 estranger,602
+2017,10,Sant Martí,70,el Besòs i el Maresme,1 estranger,624
+2017,10,Sant Martí,71,Provençals del Poblenou,1 estranger,618
+2017,10,Sant Martí,72,Sant Martí de Provençals,1 estranger,627
+2017,10,Sant Martí,73,la Verneda i la Pau,1 estranger,589
+2017,1,Ciutat Vella,1,el Raval,2 estrangers,1770
+2017,1,Ciutat Vella,2,el Barri Gòtic,2 estrangers,823
+2017,1,Ciutat Vella,3,la Barceloneta,2 estrangers,718
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",2 estrangers,1167
+2017,2,Eixample,5,el Fort Pienc,2 estrangers,637
+2017,2,Eixample,6,la Sagrada Família,2 estrangers,1073
+2017,2,Eixample,7,la Dreta de l'Eixample,2 estrangers,1066
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,2 estrangers,940
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,2 estrangers,1086
+2017,2,Eixample,10,Sant Antoni,2 estrangers,798
+2017,3,Sants-Montjuïc,11,el Poble Sec,2 estrangers,1161
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,2 estrangers,8
+2017,3,Sants-Montjuïc,13,la Marina de Port,2 estrangers,375
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,2 estrangers,185
+2017,3,Sants-Montjuïc,15,Hostafrancs,2 estrangers,370
+2017,3,Sants-Montjuïc,16,la Bordeta,2 estrangers,198
+2017,3,Sants-Montjuïc,17,Sants - Badal,2 estrangers,351
+2017,3,Sants-Montjuïc,18,Sants,2 estrangers,641
+2017,4,Les Corts,19,les Corts,2 estrangers,459
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,2 estrangers,254
+2017,4,Les Corts,21,Pedralbes,2 estrangers,131
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2 estrangers,58
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,2 estrangers,217
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,2 estrangers,151
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,2 estrangers,222
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,2 estrangers,574
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,2 estrangers,449
+2017,6,Gràcia,28,Vallcarca i els Penitents,2 estrangers,210
+2017,6,Gràcia,29,el Coll,2 estrangers,120
+2017,6,Gràcia,30,la Salut,2 estrangers,165
+2017,6,Gràcia,31,la Vila de Gràcia,2 estrangers,1247
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,2 estrangers,525
+2017,7,Horta-Guinardó,33,el Baix Guinardó,2 estrangers,400
+2017,7,Horta-Guinardó,34,Can Baró,2 estrangers,118
+2017,7,Horta-Guinardó,35,el Guinardó,2 estrangers,514
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,2 estrangers,64
+2017,7,Horta-Guinardó,37,el Carmel,2 estrangers,389
+2017,7,Horta-Guinardó,38,la Teixonera,2 estrangers,156
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,2 estrangers,91
+2017,7,Horta-Guinardó,40,Montbau,2 estrangers,53
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,2 estrangers,51
+2017,7,Horta-Guinardó,42,la Clota,2 estrangers,5
+2017,7,Horta-Guinardó,43,Horta,2 estrangers,201
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,2 estrangers,299
+2017,8,Nou Barris,45,Porta,2 estrangers,271
+2017,8,Nou Barris,46,el Turó de la Peira,2 estrangers,257
+2017,8,Nou Barris,47,Can Peguera,2 estrangers,23
+2017,8,Nou Barris,48,la Guineueta,2 estrangers,95
+2017,8,Nou Barris,49,Canyelles,2 estrangers,32
+2017,8,Nou Barris,50,les Roquetes,2 estrangers,251
+2017,8,Nou Barris,51,Verdun,2 estrangers,172
+2017,8,Nou Barris,52,la Prosperitat,2 estrangers,291
+2017,8,Nou Barris,53,la Trinitat Nova,2 estrangers,93
+2017,8,Nou Barris,54,Torre Baró,2 estrangers,34
+2017,8,Nou Barris,55,Ciutat Meridiana,2 estrangers,206
+2017,8,Nou Barris,56,Vallbona,2 estrangers,18
+2017,9,Sant Andreu,57,la Trinitat Vella,2 estrangers,206
+2017,9,Sant Andreu,58,Baró de Viver,2 estrangers,22
+2017,9,Sant Andreu,59,el Bon Pastor,2 estrangers,113
+2017,9,Sant Andreu,60,Sant Andreu,2 estrangers,391
+2017,9,Sant Andreu,61,la Sagrera,2 estrangers,323
+2017,9,Sant Andreu,62,el Congrés i els Indians,2 estrangers,171
+2017,9,Sant Andreu,63,Navas,2 estrangers,291
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,2 estrangers,697
+2017,10,Sant Martí,65,el Clot,2 estrangers,378
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,2 estrangers,284
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,2 estrangers,174
+2017,10,Sant Martí,68,el Poblenou,2 estrangers,621
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,2 estrangers,262
+2017,10,Sant Martí,70,el Besòs i el Maresme,2 estrangers,366
+2017,10,Sant Martí,71,Provençals del Poblenou,2 estrangers,256
+2017,10,Sant Martí,72,Sant Martí de Provençals,2 estrangers,278
+2017,10,Sant Martí,73,la Verneda i la Pau,2 estrangers,268
+2017,1,Ciutat Vella,1,el Raval,3 estrangers,1152
+2017,1,Ciutat Vella,2,el Barri Gòtic,3 estrangers,381
+2017,1,Ciutat Vella,3,la Barceloneta,3 estrangers,325
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",3 estrangers,536
+2017,2,Eixample,5,el Fort Pienc,3 estrangers,382
+2017,2,Eixample,6,la Sagrada Família,3 estrangers,593
+2017,2,Eixample,7,la Dreta de l'Eixample,3 estrangers,520
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,3 estrangers,451
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,3 estrangers,575
+2017,2,Eixample,10,Sant Antoni,3 estrangers,444
+2017,3,Sants-Montjuïc,11,el Poble Sec,3 estrangers,619
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,3 estrangers,5
+2017,3,Sants-Montjuïc,13,la Marina de Port,3 estrangers,248
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,3 estrangers,89
+2017,3,Sants-Montjuïc,15,Hostafrancs,3 estrangers,181
+2017,3,Sants-Montjuïc,16,la Bordeta,3 estrangers,150
+2017,3,Sants-Montjuïc,17,Sants - Badal,3 estrangers,211
+2017,3,Sants-Montjuïc,18,Sants,3 estrangers,343
+2017,4,Les Corts,19,les Corts,3 estrangers,276
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,3 estrangers,141
+2017,4,Les Corts,21,Pedralbes,3 estrangers,99
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",3 estrangers,33
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,3 estrangers,158
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,3 estrangers,56
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,3 estrangers,110
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,3 estrangers,297
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,3 estrangers,189
+2017,6,Gràcia,28,Vallcarca i els Penitents,3 estrangers,120
+2017,6,Gràcia,29,el Coll,3 estrangers,54
+2017,6,Gràcia,30,la Salut,3 estrangers,101
+2017,6,Gràcia,31,la Vila de Gràcia,3 estrangers,551
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,3 estrangers,242
+2017,7,Horta-Guinardó,33,el Baix Guinardó,3 estrangers,202
+2017,7,Horta-Guinardó,34,Can Baró,3 estrangers,68
+2017,7,Horta-Guinardó,35,el Guinardó,3 estrangers,297
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,3 estrangers,28
+2017,7,Horta-Guinardó,37,el Carmel,3 estrangers,279
+2017,7,Horta-Guinardó,38,la Teixonera,3 estrangers,100
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,3 estrangers,49
+2017,7,Horta-Guinardó,40,Montbau,3 estrangers,39
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,3 estrangers,33
+2017,7,Horta-Guinardó,42,la Clota,3 estrangers,2
+2017,7,Horta-Guinardó,43,Horta,3 estrangers,119
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,3 estrangers,199
+2017,8,Nou Barris,45,Porta,3 estrangers,180
+2017,8,Nou Barris,46,el Turó de la Peira,3 estrangers,217
+2017,8,Nou Barris,47,Can Peguera,3 estrangers,5
+2017,8,Nou Barris,48,la Guineueta,3 estrangers,61
+2017,8,Nou Barris,49,Canyelles,3 estrangers,19
+2017,8,Nou Barris,50,les Roquetes,3 estrangers,177
+2017,8,Nou Barris,51,Verdun,3 estrangers,112
+2017,8,Nou Barris,52,la Prosperitat,3 estrangers,204
+2017,8,Nou Barris,53,la Trinitat Nova,3 estrangers,79
+2017,8,Nou Barris,54,Torre Baró,3 estrangers,38
+2017,8,Nou Barris,55,Ciutat Meridiana,3 estrangers,162
+2017,8,Nou Barris,56,Vallbona,3 estrangers,10
+2017,9,Sant Andreu,57,la Trinitat Vella,3 estrangers,145
+2017,9,Sant Andreu,58,Baró de Viver,3 estrangers,15
+2017,9,Sant Andreu,59,el Bon Pastor,3 estrangers,84
+2017,9,Sant Andreu,60,Sant Andreu,3 estrangers,212
+2017,9,Sant Andreu,61,la Sagrera,3 estrangers,208
+2017,9,Sant Andreu,62,el Congrés i els Indians,3 estrangers,106
+2017,9,Sant Andreu,63,Navas,3 estrangers,178
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,3 estrangers,391
+2017,10,Sant Martí,65,el Clot,3 estrangers,207
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,3 estrangers,179
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,3 estrangers,98
+2017,10,Sant Martí,68,el Poblenou,3 estrangers,364
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,3 estrangers,161
+2017,10,Sant Martí,70,el Besòs i el Maresme,3 estrangers,266
+2017,10,Sant Martí,71,Provençals del Poblenou,3 estrangers,167
+2017,10,Sant Martí,72,Sant Martí de Provençals,3 estrangers,164
+2017,10,Sant Martí,73,la Verneda i la Pau,3 estrangers,174
+2017,1,Ciutat Vella,1,el Raval,4 estrangers o més,2286
+2017,1,Ciutat Vella,2,el Barri Gòtic,4 estrangers o més,495
+2017,1,Ciutat Vella,3,la Barceloneta,4 estrangers o més,280
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",4 estrangers o més,559
+2017,2,Eixample,5,el Fort Pienc,4 estrangers o més,506
+2017,2,Eixample,6,la Sagrada Família,4 estrangers o més,714
+2017,2,Eixample,7,la Dreta de l'Eixample,4 estrangers o més,602
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,4 estrangers o més,553
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,4 estrangers o més,764
+2017,2,Eixample,10,Sant Antoni,4 estrangers o més,614
+2017,3,Sants-Montjuïc,11,el Poble Sec,4 estrangers o més,1037
+2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,4 estrangers o més,8
+2017,3,Sants-Montjuïc,13,la Marina de Port,4 estrangers o més,392
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,4 estrangers o més,173
+2017,3,Sants-Montjuïc,15,Hostafrancs,4 estrangers o més,272
+2017,3,Sants-Montjuïc,16,la Bordeta,4 estrangers o més,192
+2017,3,Sants-Montjuïc,17,Sants - Badal,4 estrangers o més,363
+2017,3,Sants-Montjuïc,18,Sants,4 estrangers o més,490
+2017,4,Les Corts,19,les Corts,4 estrangers o més,321
+2017,4,Les Corts,20,la Maternitat i Sant Ramon,4 estrangers o més,202
+2017,4,Les Corts,21,Pedralbes,4 estrangers o més,214
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",4 estrangers o més,54
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,4 estrangers o més,244
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,4 estrangers o més,98
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,4 estrangers o més,186
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,4 estrangers o més,373
+2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,4 estrangers o més,205
+2017,6,Gràcia,28,Vallcarca i els Penitents,4 estrangers o més,138
+2017,6,Gràcia,29,el Coll,4 estrangers o més,69
+2017,6,Gràcia,30,la Salut,4 estrangers o més,91
+2017,6,Gràcia,31,la Vila de Gràcia,4 estrangers o més,592
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,4 estrangers o més,288
+2017,7,Horta-Guinardó,33,el Baix Guinardó,4 estrangers o més,225
+2017,7,Horta-Guinardó,34,Can Baró,4 estrangers o més,94
+2017,7,Horta-Guinardó,35,el Guinardó,4 estrangers o més,366
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,4 estrangers o més,25
+2017,7,Horta-Guinardó,37,el Carmel,4 estrangers o més,359
+2017,7,Horta-Guinardó,38,la Teixonera,4 estrangers o més,118
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,4 estrangers o més,68
+2017,7,Horta-Guinardó,40,Montbau,4 estrangers o més,43
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,4 estrangers o més,43
+2017,7,Horta-Guinardó,42,la Clota,4 estrangers o més,5
+2017,7,Horta-Guinardó,43,Horta,4 estrangers o més,195
+2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,4 estrangers o més,292
+2017,8,Nou Barris,45,Porta,4 estrangers o més,313
+2017,8,Nou Barris,46,el Turó de la Peira,4 estrangers o més,296
+2017,8,Nou Barris,47,Can Peguera,4 estrangers o més,12
+2017,8,Nou Barris,48,la Guineueta,4 estrangers o més,95
+2017,8,Nou Barris,49,Canyelles,4 estrangers o més,17
+2017,8,Nou Barris,50,les Roquetes,4 estrangers o més,324
+2017,8,Nou Barris,51,Verdun,4 estrangers o més,250
+2017,8,Nou Barris,52,la Prosperitat,4 estrangers o més,387
+2017,8,Nou Barris,53,la Trinitat Nova,4 estrangers o més,138
+2017,8,Nou Barris,54,Torre Baró,4 estrangers o més,46
+2017,8,Nou Barris,55,Ciutat Meridiana,4 estrangers o més,316
+2017,8,Nou Barris,56,Vallbona,4 estrangers o més,13
+2017,9,Sant Andreu,57,la Trinitat Vella,4 estrangers o més,286
+2017,9,Sant Andreu,58,Baró de Viver,4 estrangers o més,23
+2017,9,Sant Andreu,59,el Bon Pastor,4 estrangers o més,125
+2017,9,Sant Andreu,60,Sant Andreu,4 estrangers o més,330
+2017,9,Sant Andreu,61,la Sagrera,4 estrangers o més,285
+2017,9,Sant Andreu,62,el Congrés i els Indians,4 estrangers o més,156
+2017,9,Sant Andreu,63,Navas,4 estrangers o més,259
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,4 estrangers o més,433
+2017,10,Sant Martí,65,el Clot,4 estrangers o més,300
+2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,4 estrangers o més,213
+2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,4 estrangers o més,98
+2017,10,Sant Martí,68,el Poblenou,4 estrangers o més,415
+2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,4 estrangers o més,196
+2017,10,Sant Martí,70,el Besòs i el Maresme,4 estrangers o més,613
+2017,10,Sant Martí,71,Provençals del Poblenou,4 estrangers o més,250
+2017,10,Sant Martí,72,Sant Martí de Provençals,4 estrangers o més,273
+2017,10,Sant Martí,73,la Verneda i la Pau,4 estrangers o més,316

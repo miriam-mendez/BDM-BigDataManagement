@@ -1,0 +1,585 @@
+﻿"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Nacionalitat","Nombre"
+2021,1,"Ciutat Vella",1,"el Raval","1 espanyol",5880
+2021,1,"Ciutat Vella",2,"el Barri Gòtic","1 espanyol",2230
+2021,1,"Ciutat Vella",3,"la Barceloneta","1 espanyol",2379
+2021,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","1 espanyol",3573
+2021,2,"Eixample",5,"el Fort Pienc","1 espanyol",4149
+2021,2,"Eixample",6,"la Sagrada Família","1 espanyol",7531
+2021,2,"Eixample",7,"la Dreta de l'Eixample","1 espanyol",6168
+2021,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","1 espanyol",6371
+2021,2,"Eixample",9,"la Nova Esquerra de l'Eixample","1 espanyol",8441
+2021,2,"Eixample",10,"Sant Antoni","1 espanyol",5739
+2021,3,"Sants-Montjuïc",11,"el Poble Sec","1 espanyol",5515
+2021,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","1 espanyol",206
+2021,3,"Sants-Montjuïc",13,"la Marina de Port","1 espanyol",3568
+2021,3,"Sants-Montjuïc",14,"la Font de la Guatlla","1 espanyol",1475
+2021,3,"Sants-Montjuïc",15,"Hostafrancs","1 espanyol",2286
+2021,3,"Sants-Montjuïc",16,"la Bordeta","1 espanyol",2387
+2021,3,"Sants-Montjuïc",17,"Sants - Badal","1 espanyol",3292
+2021,3,"Sants-Montjuïc",18,"Sants","1 espanyol",6057
+2021,4,"Les Corts",19,"les Corts","1 espanyol",6020
+2021,4,"Les Corts",20,"la Maternitat i Sant Ramon","1 espanyol",2957
+2021,4,"Les Corts",21,"Pedralbes","1 espanyol",1088
+2021,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","1 espanyol",382
+2021,5,"Sarrià-Sant Gervasi",23,"Sarrià","1 espanyol",2441
+2021,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","1 espanyol",1424
+2021,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","1 espanyol",2749
+2021,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","1 espanyol",5913
+2021,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","1 espanyol",4121
+2021,6,"Gràcia",28,"Vallcarca i els Penitents","1 espanyol",2197
+2021,6,"Gràcia",29,"el Coll","1 espanyol",1059
+2021,6,"Gràcia",30,"la Salut","1 espanyol",1805
+2021,6,"Gràcia",31,"la Vila de Gràcia","1 espanyol",8532
+2021,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","1 espanyol",5074
+2021,7,"Horta-Guinardó",33,"el Baix Guinardó","1 espanyol",3627
+2021,7,"Horta-Guinardó",34,"Can Baró","1 espanyol",1287
+2021,7,"Horta-Guinardó",35,"el Guinardó","1 espanyol",5212
+2021,7,"Horta-Guinardó",36,"la Font d'en Fargues","1 espanyol",1009
+2021,7,"Horta-Guinardó",37,"el Carmel","1 espanyol",3891
+2021,7,"Horta-Guinardó",38,"la Teixonera","1 espanyol",1520
+2021,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","1 espanyol",963
+2021,7,"Horta-Guinardó",40,"Montbau","1 espanyol",745
+2021,7,"Horta-Guinardó",41,"la Vall d'Hebron","1 espanyol",722
+2021,7,"Horta-Guinardó",42,"la Clota","1 espanyol",91
+2021,7,"Horta-Guinardó",43,"Horta","1 espanyol",3299
+2021,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","1 espanyol",3407
+2021,8,"Nou Barris",45,"Porta","1 espanyol",3370
+2021,8,"Nou Barris",46,"el Turó de la Peira","1 espanyol",2264
+2021,8,"Nou Barris",47,"Can Peguera","1 espanyol",339
+2021,8,"Nou Barris",48,"la Guineueta","1 espanyol",1862
+2021,8,"Nou Barris",49,"Canyelles","1 espanyol",771
+2021,8,"Nou Barris",50,"les Roquetes","1 espanyol",1726
+2021,8,"Nou Barris",51,"Verdun","1 espanyol",1822
+2021,8,"Nou Barris",52,"la Prosperitat","1 espanyol",3406
+2021,8,"Nou Barris",53,"la Trinitat Nova","1 espanyol",1042
+2021,8,"Nou Barris",54,"Torre Baró","1 espanyol",252
+2021,8,"Nou Barris",55,"Ciutat Meridiana","1 espanyol",995
+2021,8,"Nou Barris",56,"Vallbona","1 espanyol",131
+2021,9,"Sant Andreu",57,"la Trinitat Vella","1 espanyol",965
+2021,9,"Sant Andreu",58,"Baró de Viver","1 espanyol",316
+2021,9,"Sant Andreu",59,"el Bon Pastor","1 espanyol",1206
+2021,9,"Sant Andreu",60,"Sant Andreu","1 espanyol",7060
+2021,9,"Sant Andreu",61,"la Sagrera","1 espanyol",3673
+2021,9,"Sant Andreu",62,"el Congrés i els Indians","1 espanyol",1986
+2021,9,"Sant Andreu",63,"Navas","1 espanyol",2879
+2021,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","1 espanyol",5652
+2021,10,"Sant Martí",65,"el Clot","1 espanyol",3195
+2021,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","1 espanyol",2031
+2021,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","1 espanyol",852
+2021,10,"Sant Martí",68,"el Poblenou","1 espanyol",4115
+2021,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","1 espanyol",1542
+2021,10,"Sant Martí",70,"el Besòs i el Maresme","1 espanyol",2420
+2021,10,"Sant Martí",71,"Provençals del Poblenou","1 espanyol",2307
+2021,10,"Sant Martí",72,"Sant Martí de Provençals","1 espanyol",3268
+2021,10,"Sant Martí",73,"la Verneda i la Pau","1 espanyol",3322
+2021,1,"Ciutat Vella",1,"el Raval","2 espanyols",2904
+2021,1,"Ciutat Vella",2,"el Barri Gòtic","2 espanyols",1091
+2021,1,"Ciutat Vella",3,"la Barceloneta","2 espanyols",1307
+2021,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","2 espanyols",1740
+2021,2,"Eixample",5,"el Fort Pienc","2 espanyols",3231
+2021,2,"Eixample",6,"la Sagrada Família","2 espanyols",5609
+2021,2,"Eixample",7,"la Dreta de l'Eixample","2 espanyols",4083
+2021,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","2 espanyols",4234
+2021,2,"Eixample",9,"la Nova Esquerra de l'Eixample","2 espanyols",6588
+2021,2,"Eixample",10,"Sant Antoni","2 espanyols",4195
+2021,3,"Sants-Montjuïc",11,"el Poble Sec","2 espanyols",3703
+2021,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","2 espanyols",131
+2021,3,"Sants-Montjuïc",13,"la Marina de Port","2 espanyols",3276
+2021,3,"Sants-Montjuïc",14,"la Font de la Guatlla","2 espanyols",1142
+2021,3,"Sants-Montjuïc",15,"Hostafrancs","2 espanyols",1746
+2021,3,"Sants-Montjuïc",16,"la Bordeta","2 espanyols",2348
+2021,3,"Sants-Montjuïc",17,"Sants - Badal","2 espanyols",2923
+2021,3,"Sants-Montjuïc",18,"Sants","2 espanyols",4558
+2021,4,"Les Corts",19,"les Corts","2 espanyols",5319
+2021,4,"Les Corts",20,"la Maternitat i Sant Ramon","2 espanyols",2723
+2021,4,"Les Corts",21,"Pedralbes","2 espanyols",1033
+2021,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","2 espanyols",355
+2021,5,"Sarrià-Sant Gervasi",23,"Sarrià","2 espanyols",2000
+2021,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","2 espanyols",1250
+2021,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","2 espanyols",2212
+2021,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","2 espanyols",4403
+2021,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","2 espanyols",2884
+2021,6,"Gràcia",28,"Vallcarca i els Penitents","2 espanyols",1677
+2021,6,"Gràcia",29,"el Coll","2 espanyols",816
+2021,6,"Gràcia",30,"la Salut","2 espanyols",1460
+2021,6,"Gràcia",31,"la Vila de Gràcia","2 espanyols",5146
+2021,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","2 espanyols",4044
+2021,7,"Horta-Guinardó",33,"el Baix Guinardó","2 espanyols",2959
+2021,7,"Horta-Guinardó",34,"Can Baró","2 espanyols",1100
+2021,7,"Horta-Guinardó",35,"el Guinardó","2 espanyols",4279
+2021,7,"Horta-Guinardó",36,"la Font d'en Fargues","2 espanyols",1106
+2021,7,"Horta-Guinardó",37,"el Carmel","2 espanyols",3766
+2021,7,"Horta-Guinardó",38,"la Teixonera","2 espanyols",1441
+2021,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","2 espanyols",871
+2021,7,"Horta-Guinardó",40,"Montbau","2 espanyols",603
+2021,7,"Horta-Guinardó",41,"la Vall d'Hebron","2 espanyols",711
+2021,7,"Horta-Guinardó",42,"la Clota","2 espanyols",65
+2021,7,"Horta-Guinardó",43,"Horta","2 espanyols",3127
+2021,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","2 espanyols",3086
+2021,8,"Nou Barris",45,"Porta","2 espanyols",3088
+2021,8,"Nou Barris",46,"el Turó de la Peira","2 espanyols",1711
+2021,8,"Nou Barris",47,"Can Peguera","2 espanyols",261
+2021,8,"Nou Barris",48,"la Guineueta","2 espanyols",1934
+2021,8,"Nou Barris",49,"Canyelles","2 espanyols",907
+2021,8,"Nou Barris",50,"les Roquetes","2 espanyols",1668
+2021,8,"Nou Barris",51,"Verdun","2 espanyols",1463
+2021,8,"Nou Barris",52,"la Prosperitat","2 espanyols",3249
+2021,8,"Nou Barris",53,"la Trinitat Nova","2 espanyols",768
+2021,8,"Nou Barris",54,"Torre Baró","2 espanyols",252
+2021,8,"Nou Barris",55,"Ciutat Meridiana","2 espanyols",1008
+2021,8,"Nou Barris",56,"Vallbona","2 espanyols",134
+2021,9,"Sant Andreu",57,"la Trinitat Vella","2 espanyols",907
+2021,9,"Sant Andreu",58,"Baró de Viver","2 espanyols",262
+2021,9,"Sant Andreu",59,"el Bon Pastor","2 espanyols",1190
+2021,9,"Sant Andreu",60,"Sant Andreu","2 espanyols",7163
+2021,9,"Sant Andreu",61,"la Sagrera","2 espanyols",3602
+2021,9,"Sant Andreu",62,"el Congrés i els Indians","2 espanyols",1661
+2021,9,"Sant Andreu",63,"Navas","2 espanyols",2547
+2021,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","2 espanyols",4515
+2021,10,"Sant Martí",65,"el Clot","2 espanyols",2950
+2021,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","2 espanyols",1700
+2021,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","2 espanyols",825
+2021,10,"Sant Martí",68,"el Poblenou","2 espanyols",3171
+2021,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","2 espanyols",1265
+2021,10,"Sant Martí",70,"el Besòs i el Maresme","2 espanyols",2251
+2021,10,"Sant Martí",71,"Provençals del Poblenou","2 espanyols",2276
+2021,10,"Sant Martí",72,"Sant Martí de Provençals","2 espanyols",3141
+2021,10,"Sant Martí",73,"la Verneda i la Pau","2 espanyols",3577
+2021,1,"Ciutat Vella",1,"el Raval","3 espanyols",1457
+2021,1,"Ciutat Vella",2,"el Barri Gòtic","3 espanyols",459
+2021,1,"Ciutat Vella",3,"la Barceloneta","3 espanyols",588
+2021,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","3 espanyols",787
+2021,2,"Eixample",5,"el Fort Pienc","3 espanyols",1970
+2021,2,"Eixample",6,"la Sagrada Família","3 espanyols",3258
+2021,2,"Eixample",7,"la Dreta de l'Eixample","3 espanyols",2398
+2021,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","3 espanyols",2366
+2021,2,"Eixample",9,"la Nova Esquerra de l'Eixample","3 espanyols",3538
+2021,2,"Eixample",10,"Sant Antoni","3 espanyols",2248
+2021,3,"Sants-Montjuïc",11,"el Poble Sec","3 espanyols",2029
+2021,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","3 espanyols",75
+2021,3,"Sants-Montjuïc",13,"la Marina de Port","3 espanyols",2211
+2021,3,"Sants-Montjuïc",14,"la Font de la Guatlla","3 espanyols",649
+2021,3,"Sants-Montjuïc",15,"Hostafrancs","3 espanyols",955
+2021,3,"Sants-Montjuïc",16,"la Bordeta","3 espanyols",1436
+2021,3,"Sants-Montjuïc",17,"Sants - Badal","3 espanyols",1620
+2021,3,"Sants-Montjuïc",18,"Sants","3 espanyols",2645
+2021,4,"Les Corts",19,"les Corts","3 espanyols",3173
+2021,4,"Les Corts",20,"la Maternitat i Sant Ramon","3 espanyols",1683
+2021,4,"Les Corts",21,"Pedralbes","3 espanyols",692
+2021,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","3 espanyols",296
+2021,5,"Sarrià-Sant Gervasi",23,"Sarrià","3 espanyols",1379
+2021,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","3 espanyols",855
+2021,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","3 espanyols",1462
+2021,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","3 espanyols",2710
+2021,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","3 espanyols",1820
+2021,6,"Gràcia",28,"Vallcarca i els Penitents","3 espanyols",1083
+2021,6,"Gràcia",29,"el Coll","3 espanyols",519
+2021,6,"Gràcia",30,"la Salut","3 espanyols",881
+2021,6,"Gràcia",31,"la Vila de Gràcia","3 espanyols",2829
+2021,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","3 espanyols",2309
+2021,7,"Horta-Guinardó",33,"el Baix Guinardó","3 espanyols",1821
+2021,7,"Horta-Guinardó",34,"Can Baró","3 espanyols",599
+2021,7,"Horta-Guinardó",35,"el Guinardó","3 espanyols",2555
+2021,7,"Horta-Guinardó",36,"la Font d'en Fargues","3 espanyols",732
+2021,7,"Horta-Guinardó",37,"el Carmel","3 espanyols",2287
+2021,7,"Horta-Guinardó",38,"la Teixonera","3 espanyols",854
+2021,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","3 espanyols",469
+2021,7,"Horta-Guinardó",40,"Montbau","3 espanyols",312
+2021,7,"Horta-Guinardó",41,"la Vall d'Hebron","3 espanyols",455
+2021,7,"Horta-Guinardó",42,"la Clota","3 espanyols",63
+2021,7,"Horta-Guinardó",43,"Horta","3 espanyols",1922
+2021,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","3 espanyols",1884
+2021,8,"Nou Barris",45,"Porta","3 espanyols",1750
+2021,8,"Nou Barris",46,"el Turó de la Peira","3 espanyols",930
+2021,8,"Nou Barris",47,"Can Peguera","3 espanyols",155
+2021,8,"Nou Barris",48,"la Guineueta","3 espanyols",1140
+2021,8,"Nou Barris",49,"Canyelles","3 espanyols",569
+2021,8,"Nou Barris",50,"les Roquetes","3 espanyols",1015
+2021,8,"Nou Barris",51,"Verdun","3 espanyols",768
+2021,8,"Nou Barris",52,"la Prosperitat","3 espanyols",1887
+2021,8,"Nou Barris",53,"la Trinitat Nova","3 espanyols",453
+2021,8,"Nou Barris",54,"Torre Baró","3 espanyols",175
+2021,8,"Nou Barris",55,"Ciutat Meridiana","3 espanyols",627
+2021,8,"Nou Barris",56,"Vallbona","3 espanyols",81
+2021,9,"Sant Andreu",57,"la Trinitat Vella","3 espanyols",575
+2021,9,"Sant Andreu",58,"Baró de Viver","3 espanyols",170
+2021,9,"Sant Andreu",59,"el Bon Pastor","3 espanyols",885
+2021,9,"Sant Andreu",60,"Sant Andreu","3 espanyols",4701
+2021,9,"Sant Andreu",61,"la Sagrera","3 espanyols",2142
+2021,9,"Sant Andreu",62,"el Congrés i els Indians","3 espanyols",1020
+2021,9,"Sant Andreu",63,"Navas","3 espanyols",1605
+2021,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","3 espanyols",2558
+2021,10,"Sant Martí",65,"el Clot","3 espanyols",1905
+2021,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","3 espanyols",1064
+2021,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","3 espanyols",638
+2021,10,"Sant Martí",68,"el Poblenou","3 espanyols",2203
+2021,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","3 espanyols",869
+2021,10,"Sant Martí",70,"el Besòs i el Maresme","3 espanyols",1306
+2021,10,"Sant Martí",71,"Provençals del Poblenou","3 espanyols",1534
+2021,10,"Sant Martí",72,"Sant Martí de Provençals","3 espanyols",1889
+2021,10,"Sant Martí",73,"la Verneda i la Pau","3 espanyols",2090
+2021,1,"Ciutat Vella",1,"el Raval","4 espanyols o més",1293
+2021,1,"Ciutat Vella",2,"el Barri Gòtic","4 espanyols o més",357
+2021,1,"Ciutat Vella",3,"la Barceloneta","4 espanyols o més",451
+2021,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","4 espanyols o més",614
+2021,2,"Eixample",5,"el Fort Pienc","4 espanyols o més",1588
+2021,2,"Eixample",6,"la Sagrada Família","4 espanyols o més",2493
+2021,2,"Eixample",7,"la Dreta de l'Eixample","4 espanyols o més",2354
+2021,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","4 espanyols o més",2189
+2021,2,"Eixample",9,"la Nova Esquerra de l'Eixample","4 espanyols o més",3063
+2021,2,"Eixample",10,"Sant Antoni","4 espanyols o més",1809
+2021,3,"Sants-Montjuïc",11,"el Poble Sec","4 espanyols o més",1524
+2021,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","4 espanyols o més",92
+2021,3,"Sants-Montjuïc",13,"la Marina de Port","4 espanyols o més",1998
+2021,3,"Sants-Montjuïc",14,"la Font de la Guatlla","4 espanyols o més",495
+2021,3,"Sants-Montjuïc",15,"Hostafrancs","4 espanyols o més",733
+2021,3,"Sants-Montjuïc",16,"la Bordeta","4 espanyols o més",1126
+2021,3,"Sants-Montjuïc",17,"Sants - Badal","4 espanyols o més",1286
+2021,3,"Sants-Montjuïc",18,"Sants","4 espanyols o més",2165
+2021,4,"Les Corts",19,"les Corts","4 espanyols o més",3006
+2021,4,"Les Corts",20,"la Maternitat i Sant Ramon","4 espanyols o més",1624
+2021,4,"Les Corts",21,"Pedralbes","4 espanyols o més",889
+2021,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","4 espanyols o més",427
+2021,5,"Sarrià-Sant Gervasi",23,"Sarrià","4 espanyols o més",2113
+2021,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","4 espanyols o més",1656
+2021,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","4 espanyols o més",2227
+2021,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","4 espanyols o més",3848
+2021,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","4 espanyols o més",2175
+2021,6,"Gràcia",28,"Vallcarca i els Penitents","4 espanyols o més",1064
+2021,6,"Gràcia",29,"el Coll","4 espanyols o més",457
+2021,6,"Gràcia",30,"la Salut","4 espanyols o més",815
+2021,6,"Gràcia",31,"la Vila de Gràcia","4 espanyols o més",2424
+2021,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","4 espanyols o més",2007
+2021,7,"Horta-Guinardó",33,"el Baix Guinardó","4 espanyols o més",1429
+2021,7,"Horta-Guinardó",34,"Can Baró","4 espanyols o més",533
+2021,7,"Horta-Guinardó",35,"el Guinardó","4 espanyols o més",2154
+2021,7,"Horta-Guinardó",36,"la Font d'en Fargues","4 espanyols o més",744
+2021,7,"Horta-Guinardó",37,"el Carmel","4 espanyols o més",1842
+2021,7,"Horta-Guinardó",38,"la Teixonera","4 espanyols o més",675
+2021,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","4 espanyols o més",401
+2021,7,"Horta-Guinardó",40,"Montbau","4 espanyols o més",283
+2021,7,"Horta-Guinardó",41,"la Vall d'Hebron","4 espanyols o més",393
+2021,7,"Horta-Guinardó",42,"la Clota","4 espanyols o més",42
+2021,7,"Horta-Guinardó",43,"Horta","4 espanyols o més",1764
+2021,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","4 espanyols o més",1492
+2021,8,"Nou Barris",45,"Porta","4 espanyols o més",1281
+2021,8,"Nou Barris",46,"el Turó de la Peira","4 espanyols o més",811
+2021,8,"Nou Barris",47,"Can Peguera","4 espanyols o més",132
+2021,8,"Nou Barris",48,"la Guineueta","4 espanyols o més",1019
+2021,8,"Nou Barris",49,"Canyelles","4 espanyols o més",489
+2021,8,"Nou Barris",50,"les Roquetes","4 espanyols o més",973
+2021,8,"Nou Barris",51,"Verdun","4 espanyols o més",624
+2021,8,"Nou Barris",52,"la Prosperitat","4 espanyols o més",1488
+2021,8,"Nou Barris",53,"la Trinitat Nova","4 espanyols o més",408
+2021,8,"Nou Barris",54,"Torre Baró","4 espanyols o més",222
+2021,8,"Nou Barris",55,"Ciutat Meridiana","4 espanyols o més",574
+2021,8,"Nou Barris",56,"Vallbona","4 espanyols o més",104
+2021,9,"Sant Andreu",57,"la Trinitat Vella","4 espanyols o més",587
+2021,9,"Sant Andreu",58,"Baró de Viver","4 espanyols o més",189
+2021,9,"Sant Andreu",59,"el Bon Pastor","4 espanyols o més",918
+2021,9,"Sant Andreu",60,"Sant Andreu","4 espanyols o més",3979
+2021,9,"Sant Andreu",61,"la Sagrera","4 espanyols o més",1763
+2021,9,"Sant Andreu",62,"el Congrés i els Indians","4 espanyols o més",858
+2021,9,"Sant Andreu",63,"Navas","4 espanyols o més",1318
+2021,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","4 espanyols o més",1880
+2021,10,"Sant Martí",65,"el Clot","4 espanyols o més",1706
+2021,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","4 espanyols o més",781
+2021,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","4 espanyols o més",709
+2021,10,"Sant Martí",68,"el Poblenou","4 espanyols o més",2272
+2021,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","4 espanyols o més",898
+2021,10,"Sant Martí",70,"el Besòs i el Maresme","4 espanyols o més",1214
+2021,10,"Sant Martí",71,"Provençals del Poblenou","4 espanyols o més",1389
+2021,10,"Sant Martí",72,"Sant Martí de Provençals","4 espanyols o més",1602
+2021,10,"Sant Martí",73,"la Verneda i la Pau","4 espanyols o més",1775
+2021,1,"Ciutat Vella",1,"el Raval","1 estranger",3863
+2021,1,"Ciutat Vella",2,"el Barri Gòtic","1 estranger",1679
+2021,1,"Ciutat Vella",3,"la Barceloneta","1 estranger",1551
+2021,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","1 estranger",2457
+2021,2,"Eixample",5,"el Fort Pienc","1 estranger",1659
+2021,2,"Eixample",6,"la Sagrada Família","1 estranger",2759
+2021,2,"Eixample",7,"la Dreta de l'Eixample","1 estranger",3059
+2021,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","1 estranger",2798
+2021,2,"Eixample",9,"la Nova Esquerra de l'Eixample","1 estranger",3002
+2021,2,"Eixample",10,"Sant Antoni","1 estranger",2184
+2021,3,"Sants-Montjuïc",11,"el Poble Sec","1 estranger",2721
+2021,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","1 estranger",56
+2021,3,"Sants-Montjuïc",13,"la Marina de Port","1 estranger",963
+2021,3,"Sants-Montjuïc",14,"la Font de la Guatlla","1 estranger",488
+2021,3,"Sants-Montjuïc",15,"Hostafrancs","1 estranger",947
+2021,3,"Sants-Montjuïc",16,"la Bordeta","1 estranger",712
+2021,3,"Sants-Montjuïc",17,"Sants - Badal","1 estranger",1042
+2021,3,"Sants-Montjuïc",18,"Sants","1 estranger",1902
+2021,4,"Les Corts",19,"les Corts","1 estranger",1735
+2021,4,"Les Corts",20,"la Maternitat i Sant Ramon","1 estranger",842
+2021,4,"Les Corts",21,"Pedralbes","1 estranger",467
+2021,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","1 estranger",225
+2021,5,"Sarrià-Sant Gervasi",23,"Sarrià","1 estranger",956
+2021,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","1 estranger",530
+2021,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","1 estranger",995
+2021,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","1 estranger",2224
+2021,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","1 estranger",1539
+2021,6,"Gràcia",28,"Vallcarca i els Penitents","1 estranger",766
+2021,6,"Gràcia",29,"el Coll","1 estranger",370
+2021,6,"Gràcia",30,"la Salut","1 estranger",565
+2021,6,"Gràcia",31,"la Vila de Gràcia","1 estranger",3582
+2021,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","1 estranger",1634
+2021,7,"Horta-Guinardó",33,"el Baix Guinardó","1 estranger",1081
+2021,7,"Horta-Guinardó",34,"Can Baró","1 estranger",471
+2021,7,"Horta-Guinardó",35,"el Guinardó","1 estranger",1577
+2021,7,"Horta-Guinardó",36,"la Font d'en Fargues","1 estranger",233
+2021,7,"Horta-Guinardó",37,"el Carmel","1 estranger",1129
+2021,7,"Horta-Guinardó",38,"la Teixonera","1 estranger",473
+2021,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","1 estranger",257
+2021,7,"Horta-Guinardó",40,"Montbau","1 estranger",156
+2021,7,"Horta-Guinardó",41,"la Vall d'Hebron","1 estranger",135
+2021,7,"Horta-Guinardó",42,"la Clota","1 estranger",18
+2021,7,"Horta-Guinardó",43,"Horta","1 estranger",725
+2021,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","1 estranger",781
+2021,8,"Nou Barris",45,"Porta","1 estranger",785
+2021,8,"Nou Barris",46,"el Turó de la Peira","1 estranger",642
+2021,8,"Nou Barris",47,"Can Peguera","1 estranger",70
+2021,8,"Nou Barris",48,"la Guineueta","1 estranger",321
+2021,8,"Nou Barris",49,"Canyelles","1 estranger",108
+2021,8,"Nou Barris",50,"les Roquetes","1 estranger",564
+2021,8,"Nou Barris",51,"Verdun","1 estranger",482
+2021,8,"Nou Barris",52,"la Prosperitat","1 estranger",751
+2021,8,"Nou Barris",53,"la Trinitat Nova","1 estranger",249
+2021,8,"Nou Barris",54,"Torre Baró","1 estranger",105
+2021,8,"Nou Barris",55,"Ciutat Meridiana","1 estranger",417
+2021,8,"Nou Barris",56,"Vallbona","1 estranger",56
+2021,9,"Sant Andreu",57,"la Trinitat Vella","1 estranger",416
+2021,9,"Sant Andreu",58,"Baró de Viver","1 estranger",111
+2021,9,"Sant Andreu",59,"el Bon Pastor","1 estranger",319
+2021,9,"Sant Andreu",60,"Sant Andreu","1 estranger",1423
+2021,9,"Sant Andreu",61,"la Sagrera","1 estranger",962
+2021,9,"Sant Andreu",62,"el Congrés i els Indians","1 estranger",526
+2021,9,"Sant Andreu",63,"Navas","1 estranger",786
+2021,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","1 estranger",1802
+2021,10,"Sant Martí",65,"el Clot","1 estranger",1037
+2021,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","1 estranger",851
+2021,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","1 estranger",474
+2021,10,"Sant Martí",68,"el Poblenou","1 estranger",1815
+2021,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","1 estranger",628
+2021,10,"Sant Martí",70,"el Besòs i el Maresme","1 estranger",818
+2021,10,"Sant Martí",71,"Provençals del Poblenou","1 estranger",759
+2021,10,"Sant Martí",72,"Sant Martí de Provençals","1 estranger",742
+2021,10,"Sant Martí",73,"la Verneda i la Pau","1 estranger",725
+2021,1,"Ciutat Vella",1,"el Raval","2 estrangers",2204
+2021,1,"Ciutat Vella",2,"el Barri Gòtic","2 estrangers",972
+2021,1,"Ciutat Vella",3,"la Barceloneta","2 estrangers",867
+2021,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","2 estrangers",1397
+2021,2,"Eixample",5,"el Fort Pienc","2 estrangers",822
+2021,2,"Eixample",6,"la Sagrada Família","2 estrangers",1359
+2021,2,"Eixample",7,"la Dreta de l'Eixample","2 estrangers",1367
+2021,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","2 estrangers",1241
+2021,2,"Eixample",9,"la Nova Esquerra de l'Eixample","2 estrangers",1348
+2021,2,"Eixample",10,"Sant Antoni","2 estrangers",999
+2021,3,"Sants-Montjuïc",11,"el Poble Sec","2 estrangers",1431
+2021,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","2 estrangers",14
+2021,3,"Sants-Montjuïc",13,"la Marina de Port","2 estrangers",441
+2021,3,"Sants-Montjuïc",14,"la Font de la Guatlla","2 estrangers",227
+2021,3,"Sants-Montjuïc",15,"Hostafrancs","2 estrangers",444
+2021,3,"Sants-Montjuïc",16,"la Bordeta","2 estrangers",261
+2021,3,"Sants-Montjuïc",17,"Sants - Badal","2 estrangers",469
+2021,3,"Sants-Montjuïc",18,"Sants","2 estrangers",824
+2021,4,"Les Corts",19,"les Corts","2 estrangers",592
+2021,4,"Les Corts",20,"la Maternitat i Sant Ramon","2 estrangers",306
+2021,4,"Les Corts",21,"Pedralbes","2 estrangers",160
+2021,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","2 estrangers",71
+2021,5,"Sarrià-Sant Gervasi",23,"Sarrià","2 estrangers",262
+2021,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","2 estrangers",138
+2021,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","2 estrangers",265
+2021,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","2 estrangers",674
+2021,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","2 estrangers",538
+2021,6,"Gràcia",28,"Vallcarca i els Penitents","2 estrangers",257
+2021,6,"Gràcia",29,"el Coll","2 estrangers",133
+2021,6,"Gràcia",30,"la Salut","2 estrangers",217
+2021,6,"Gràcia",31,"la Vila de Gràcia","2 estrangers",1553
+2021,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","2 estrangers",661
+2021,7,"Horta-Guinardó",33,"el Baix Guinardó","2 estrangers",479
+2021,7,"Horta-Guinardó",34,"Can Baró","2 estrangers",171
+2021,7,"Horta-Guinardó",35,"el Guinardó","2 estrangers",669
+2021,7,"Horta-Guinardó",36,"la Font d'en Fargues","2 estrangers",67
+2021,7,"Horta-Guinardó",37,"el Carmel","2 estrangers",534
+2021,7,"Horta-Guinardó",38,"la Teixonera","2 estrangers",215
+2021,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","2 estrangers",123
+2021,7,"Horta-Guinardó",40,"Montbau","2 estrangers",81
+2021,7,"Horta-Guinardó",41,"la Vall d'Hebron","2 estrangers",54
+2021,7,"Horta-Guinardó",42,"la Clota","2 estrangers",17
+2021,7,"Horta-Guinardó",43,"Horta","2 estrangers",306
+2021,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","2 estrangers",351
+2021,8,"Nou Barris",45,"Porta","2 estrangers",385
+2021,8,"Nou Barris",46,"el Turó de la Peira","2 estrangers",344
+2021,8,"Nou Barris",47,"Can Peguera","2 estrangers",19
+2021,8,"Nou Barris",48,"la Guineueta","2 estrangers",124
+2021,8,"Nou Barris",49,"Canyelles","2 estrangers",35
+2021,8,"Nou Barris",50,"les Roquetes","2 estrangers",295
+2021,8,"Nou Barris",51,"Verdun","2 estrangers",244
+2021,8,"Nou Barris",52,"la Prosperitat","2 estrangers",347
+2021,8,"Nou Barris",53,"la Trinitat Nova","2 estrangers",138
+2021,8,"Nou Barris",54,"Torre Baró","2 estrangers",41
+2021,8,"Nou Barris",55,"Ciutat Meridiana","2 estrangers",242
+2021,8,"Nou Barris",56,"Vallbona","2 estrangers",26
+2021,9,"Sant Andreu",57,"la Trinitat Vella","2 estrangers",232
+2021,9,"Sant Andreu",58,"Baró de Viver","2 estrangers",34
+2021,9,"Sant Andreu",59,"el Bon Pastor","2 estrangers",150
+2021,9,"Sant Andreu",60,"Sant Andreu","2 estrangers",532
+2021,9,"Sant Andreu",61,"la Sagrera","2 estrangers",406
+2021,9,"Sant Andreu",62,"el Congrés i els Indians","2 estrangers",192
+2021,9,"Sant Andreu",63,"Navas","2 estrangers",371
+2021,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","2 estrangers",901
+2021,10,"Sant Martí",65,"el Clot","2 estrangers",496
+2021,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","2 estrangers",398
+2021,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","2 estrangers",253
+2021,10,"Sant Martí",68,"el Poblenou","2 estrangers",864
+2021,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","2 estrangers",313
+2021,10,"Sant Martí",70,"el Besòs i el Maresme","2 estrangers",468
+2021,10,"Sant Martí",71,"Provençals del Poblenou","2 estrangers",371
+2021,10,"Sant Martí",72,"Sant Martí de Provençals","2 estrangers",336
+2021,10,"Sant Martí",73,"la Verneda i la Pau","2 estrangers",335
+2021,1,"Ciutat Vella",1,"el Raval","3 estrangers",1375
+2021,1,"Ciutat Vella",2,"el Barri Gòtic","3 estrangers",477
+2021,1,"Ciutat Vella",3,"la Barceloneta","3 estrangers",409
+2021,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","3 estrangers",608
+2021,2,"Eixample",5,"el Fort Pienc","3 estrangers",472
+2021,2,"Eixample",6,"la Sagrada Família","3 estrangers",744
+2021,2,"Eixample",7,"la Dreta de l'Eixample","3 estrangers",736
+2021,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","3 estrangers",651
+2021,2,"Eixample",9,"la Nova Esquerra de l'Eixample","3 estrangers",699
+2021,2,"Eixample",10,"Sant Antoni","3 estrangers",551
+2021,3,"Sants-Montjuïc",11,"el Poble Sec","3 estrangers",812
+2021,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","3 estrangers",6
+2021,3,"Sants-Montjuïc",13,"la Marina de Port","3 estrangers",329
+2021,3,"Sants-Montjuïc",14,"la Font de la Guatlla","3 estrangers",125
+2021,3,"Sants-Montjuïc",15,"Hostafrancs","3 estrangers",219
+2021,3,"Sants-Montjuïc",16,"la Bordeta","3 estrangers",203
+2021,3,"Sants-Montjuïc",17,"Sants - Badal","3 estrangers",294
+2021,3,"Sants-Montjuïc",18,"Sants","3 estrangers",425
+2021,4,"Les Corts",19,"les Corts","3 estrangers",374
+2021,4,"Les Corts",20,"la Maternitat i Sant Ramon","3 estrangers",220
+2021,4,"Les Corts",21,"Pedralbes","3 estrangers",102
+2021,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","3 estrangers",39
+2021,5,"Sarrià-Sant Gervasi",23,"Sarrià","3 estrangers",189
+2021,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","3 estrangers",67
+2021,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","3 estrangers",177
+2021,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","3 estrangers",353
+2021,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","3 estrangers",262
+2021,6,"Gràcia",28,"Vallcarca i els Penitents","3 estrangers",161
+2021,6,"Gràcia",29,"el Coll","3 estrangers",88
+2021,6,"Gràcia",30,"la Salut","3 estrangers",131
+2021,6,"Gràcia",31,"la Vila de Gràcia","3 estrangers",719
+2021,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","3 estrangers",336
+2021,7,"Horta-Guinardó",33,"el Baix Guinardó","3 estrangers",263
+2021,7,"Horta-Guinardó",34,"Can Baró","3 estrangers",82
+2021,7,"Horta-Guinardó",35,"el Guinardó","3 estrangers",420
+2021,7,"Horta-Guinardó",36,"la Font d'en Fargues","3 estrangers",51
+2021,7,"Horta-Guinardó",37,"el Carmel","3 estrangers",396
+2021,7,"Horta-Guinardó",38,"la Teixonera","3 estrangers",139
+2021,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","3 estrangers",72
+2021,7,"Horta-Guinardó",40,"Montbau","3 estrangers",56
+2021,7,"Horta-Guinardó",41,"la Vall d'Hebron","3 estrangers",46
+2021,7,"Horta-Guinardó",42,"la Clota","3 estrangers",3
+2021,7,"Horta-Guinardó",43,"Horta","3 estrangers",175
+2021,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","3 estrangers",258
+2021,8,"Nou Barris",45,"Porta","3 estrangers",285
+2021,8,"Nou Barris",46,"el Turó de la Peira","3 estrangers",258
+2021,8,"Nou Barris",47,"Can Peguera","3 estrangers",16
+2021,8,"Nou Barris",48,"la Guineueta","3 estrangers",90
+2021,8,"Nou Barris",49,"Canyelles","3 estrangers",27
+2021,8,"Nou Barris",50,"les Roquetes","3 estrangers",267
+2021,8,"Nou Barris",51,"Verdun","3 estrangers",179
+2021,8,"Nou Barris",52,"la Prosperitat","3 estrangers",293
+2021,8,"Nou Barris",53,"la Trinitat Nova","3 estrangers",92
+2021,8,"Nou Barris",54,"Torre Baró","3 estrangers",39
+2021,8,"Nou Barris",55,"Ciutat Meridiana","3 estrangers",198
+2021,8,"Nou Barris",56,"Vallbona","3 estrangers",9
+2021,9,"Sant Andreu",57,"la Trinitat Vella","3 estrangers",186
+2021,9,"Sant Andreu",58,"Baró de Viver","3 estrangers",23
+2021,9,"Sant Andreu",59,"el Bon Pastor","3 estrangers",122
+2021,9,"Sant Andreu",60,"Sant Andreu","3 estrangers",290
+2021,9,"Sant Andreu",61,"la Sagrera","3 estrangers",287
+2021,9,"Sant Andreu",62,"el Congrés i els Indians","3 estrangers",133
+2021,9,"Sant Andreu",63,"Navas","3 estrangers",205
+2021,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","3 estrangers",498
+2021,10,"Sant Martí",65,"el Clot","3 estrangers",264
+2021,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","3 estrangers",201
+2021,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","3 estrangers",101
+2021,10,"Sant Martí",68,"el Poblenou","3 estrangers",489
+2021,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","3 estrangers",194
+2021,10,"Sant Martí",70,"el Besòs i el Maresme","3 estrangers",368
+2021,10,"Sant Martí",71,"Provençals del Poblenou","3 estrangers",240
+2021,10,"Sant Martí",72,"Sant Martí de Provençals","3 estrangers",209
+2021,10,"Sant Martí",73,"la Verneda i la Pau","3 estrangers",254
+2021,1,"Ciutat Vella",1,"el Raval","4 estrangers o més",2344
+2021,1,"Ciutat Vella",2,"el Barri Gòtic","4 estrangers o més",551
+2021,1,"Ciutat Vella",3,"la Barceloneta","4 estrangers o més",353
+2021,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","4 estrangers o més",636
+2021,2,"Eixample",5,"el Fort Pienc","4 estrangers o més",655
+2021,2,"Eixample",6,"la Sagrada Família","4 estrangers o més",1000
+2021,2,"Eixample",7,"la Dreta de l'Eixample","4 estrangers o més",773
+2021,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","4 estrangers o més",690
+2021,2,"Eixample",9,"la Nova Esquerra de l'Eixample","4 estrangers o més",904
+2021,2,"Eixample",10,"Sant Antoni","4 estrangers o més",791
+2021,3,"Sants-Montjuïc",11,"el Poble Sec","4 estrangers o més",1128
+2021,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","4 estrangers o més",18
+2021,3,"Sants-Montjuïc",13,"la Marina de Port","4 estrangers o més",535
+2021,3,"Sants-Montjuïc",14,"la Font de la Guatlla","4 estrangers o més",181
+2021,3,"Sants-Montjuïc",15,"Hostafrancs","4 estrangers o més",332
+2021,3,"Sants-Montjuïc",16,"la Bordeta","4 estrangers o més",241
+2021,3,"Sants-Montjuïc",17,"Sants - Badal","4 estrangers o més",469
+2021,3,"Sants-Montjuïc",18,"Sants","4 estrangers o més",646
+2021,4,"Les Corts",19,"les Corts","4 estrangers o més",408
+2021,4,"Les Corts",20,"la Maternitat i Sant Ramon","4 estrangers o més",257
+2021,4,"Les Corts",21,"Pedralbes","4 estrangers o més",205
+2021,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","4 estrangers o més",56
+2021,5,"Sarrià-Sant Gervasi",23,"Sarrià","4 estrangers o més",297
+2021,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","4 estrangers o més",133
+2021,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","4 estrangers o més",231
+2021,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","4 estrangers o més",468
+2021,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","4 estrangers o més",298
+2021,6,"Gràcia",28,"Vallcarca i els Penitents","4 estrangers o més",205
+2021,6,"Gràcia",29,"el Coll","4 estrangers o més",113
+2021,6,"Gràcia",30,"la Salut","4 estrangers o més",151
+2021,6,"Gràcia",31,"la Vila de Gràcia","4 estrangers o més",684
+2021,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","4 estrangers o més",378
+2021,7,"Horta-Guinardó",33,"el Baix Guinardó","4 estrangers o més",319
+2021,7,"Horta-Guinardó",34,"Can Baró","4 estrangers o més",132
+2021,7,"Horta-Guinardó",35,"el Guinardó","4 estrangers o més",471
+2021,7,"Horta-Guinardó",36,"la Font d'en Fargues","4 estrangers o més",60
+2021,7,"Horta-Guinardó",37,"el Carmel","4 estrangers o més",608
+2021,7,"Horta-Guinardó",38,"la Teixonera","4 estrangers o més",178
+2021,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","4 estrangers o més",119
+2021,7,"Horta-Guinardó",40,"Montbau","4 estrangers o més",67
+2021,7,"Horta-Guinardó",41,"la Vall d'Hebron","4 estrangers o més",50
+2021,7,"Horta-Guinardó",42,"la Clota","4 estrangers o més",7
+2021,7,"Horta-Guinardó",43,"Horta","4 estrangers o més",234
+2021,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","4 estrangers o més",372
+2021,8,"Nou Barris",45,"Porta","4 estrangers o més",396
+2021,8,"Nou Barris",46,"el Turó de la Peira","4 estrangers o més",375
+2021,8,"Nou Barris",47,"Can Peguera","4 estrangers o més",19
+2021,8,"Nou Barris",48,"la Guineueta","4 estrangers o més",138
+2021,8,"Nou Barris",49,"Canyelles","4 estrangers o més",37
+2021,8,"Nou Barris",50,"les Roquetes","4 estrangers o més",407
+2021,8,"Nou Barris",51,"Verdun","4 estrangers o més",290
+2021,8,"Nou Barris",52,"la Prosperitat","4 estrangers o més",469
+2021,8,"Nou Barris",53,"la Trinitat Nova","4 estrangers o més",192
+2021,8,"Nou Barris",54,"Torre Baró","4 estrangers o més",55
+2021,8,"Nou Barris",55,"Ciutat Meridiana","4 estrangers o més",407
+2021,8,"Nou Barris",56,"Vallbona","4 estrangers o més",21
+2021,9,"Sant Andreu",57,"la Trinitat Vella","4 estrangers o més",349
+2021,9,"Sant Andreu",58,"Baró de Viver","4 estrangers o més",32
+2021,9,"Sant Andreu",59,"el Bon Pastor","4 estrangers o més",178
+2021,9,"Sant Andreu",60,"Sant Andreu","4 estrangers o més",459
+2021,9,"Sant Andreu",61,"la Sagrera","4 estrangers o més",394
+2021,9,"Sant Andreu",62,"el Congrés i els Indians","4 estrangers o més",214
+2021,9,"Sant Andreu",63,"Navas","4 estrangers o més",334
+2021,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","4 estrangers o més",622
+2021,10,"Sant Martí",65,"el Clot","4 estrangers o més",369
+2021,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","4 estrangers o més",265
+2021,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","4 estrangers o més",132
+2021,10,"Sant Martí",68,"el Poblenou","4 estrangers o més",510
+2021,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","4 estrangers o més",230
+2021,10,"Sant Martí",70,"el Besòs i el Maresme","4 estrangers o més",755
+2021,10,"Sant Martí",71,"Provençals del Poblenou","4 estrangers o més",312
+2021,10,"Sant Martí",72,"Sant Martí de Provençals","4 estrangers o més",365
+2021,10,"Sant Martí",73,"la Verneda i la Pau","4 estrangers o més",434

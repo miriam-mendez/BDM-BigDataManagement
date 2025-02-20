@@ -1,0 +1,585 @@
+Any,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Nacionalitat,Nombre
+2013,1,Ciutat Vella,1,el Raval,1 espanyol,6319
+2013,1,Ciutat Vella,2,el Barri Gòtic,1 espanyol,2533
+2013,1,Ciutat Vella,3,la Barceloneta,1 espanyol,2610
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",1 espanyol,3912
+2013,2,Eixample,5,el Fort Pienc,1 espanyol,4277
+2013,2,Eixample,6,la Sagrada Família,1 espanyol,7918
+2013,2,Eixample,7,la Dreta de l'Eixample,1 espanyol,6538
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1 espanyol,6627
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,1 espanyol,8485
+2013,2,Eixample,10,Sant Antoni,1 espanyol,6019
+2013,3,Sants-Montjuïc,11,el Poble Sec,1 espanyol,5671
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,1 espanyol,164
+2013,3,Sants-Montjuïc,13,la Marina de Port,1 espanyol,3341
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,1 espanyol,1443
+2013,3,Sants-Montjuïc,15,Hostafrancs,1 espanyol,2261
+2013,3,Sants-Montjuïc,16,la Bordeta,1 espanyol,2241
+2013,3,Sants-Montjuïc,17,Sants - Badal,1 espanyol,3242
+2013,3,Sants-Montjuïc,18,Sants,1 espanyol,6134
+2013,4,Les Corts,19,les Corts,1 espanyol,5956
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,1 espanyol,2745
+2013,4,Les Corts,21,Pedralbes,1 espanyol,1085
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",1 espanyol,372
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,1 espanyol,2503
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,1 espanyol,1389
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,1 espanyol,2722
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,1 espanyol,6009
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,1 espanyol,4239
+2013,6,Gràcia,28,Vallcarca i els Penitents,1 espanyol,2137
+2013,6,Gràcia,29,el Coll,1 espanyol,975
+2013,6,Gràcia,30,la Salut,1 espanyol,1755
+2013,6,Gràcia,31,la Vila de Gràcia,1 espanyol,9063
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,1 espanyol,5126
+2013,7,Horta-Guinardó,33,el Baix Guinardó,1 espanyol,3622
+2013,7,Horta-Guinardó,34,Can Baró,1 espanyol,1208
+2013,7,Horta-Guinardó,35,el Guinardó,1 espanyol,5104
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,1 espanyol,963
+2013,7,Horta-Guinardó,37,el Carmel,1 espanyol,3647
+2013,7,Horta-Guinardó,38,la Teixonera,1 espanyol,1406
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,1 espanyol,868
+2013,7,Horta-Guinardó,40,Montbau,1 espanyol,743
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,1 espanyol,619
+2013,7,Horta-Guinardó,42,la Clota,1 espanyol,61
+2013,7,Horta-Guinardó,43,Horta,1 espanyol,3219
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,1 espanyol,3198
+2013,8,Nou Barris,45,Porta,1 espanyol,3264
+2013,8,Nou Barris,46,el Turó de la Peira,1 espanyol,2162
+2013,8,Nou Barris,47,Can Peguera,1 espanyol,315
+2013,8,Nou Barris,48,la Guineueta,1 espanyol,1730
+2013,8,Nou Barris,49,Canyelles,1 espanyol,663
+2013,8,Nou Barris,50,les Roquetes,1 espanyol,1585
+2013,8,Nou Barris,51,Verdun,1 espanyol,1654
+2013,8,Nou Barris,52,la Prosperitat,1 espanyol,3181
+2013,8,Nou Barris,53,la Trinitat Nova,1 espanyol,948
+2013,8,Nou Barris,54,Torre Baró,1 espanyol,176
+2013,8,Nou Barris,55,Ciutat Meridiana,1 espanyol,909
+2013,8,Nou Barris,56,Vallbona,1 espanyol,146
+2013,9,Sant Andreu,57,la Trinitat Vella,1 espanyol,891
+2013,9,Sant Andreu,58,Baró de Viver,1 espanyol,319
+2013,9,Sant Andreu,59,el Bon Pastor,1 espanyol,1180
+2013,9,Sant Andreu,60,Sant Andreu,1 espanyol,6762
+2013,9,Sant Andreu,61,la Sagrera,1 espanyol,3394
+2013,9,Sant Andreu,62,el Congrés i els Indians,1 espanyol,2065
+2013,9,Sant Andreu,63,Navas,1 espanyol,2723
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,1 espanyol,5522
+2013,10,Sant Martí,65,el Clot,1 espanyol,3096
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,1 espanyol,1961
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,1 espanyol,852
+2013,10,Sant Martí,68,el Poblenou,1 espanyol,4230
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,1 espanyol,1691
+2013,10,Sant Martí,70,el Besòs i el Maresme,1 espanyol,2395
+2013,10,Sant Martí,71,Provençals del Poblenou,1 espanyol,2281
+2013,10,Sant Martí,72,Sant Martí de Provençals,1 espanyol,3143
+2013,10,Sant Martí,73,la Verneda i la Pau,1 espanyol,2986
+2013,1,Ciutat Vella,1,el Raval,2 espanyols,3346
+2013,1,Ciutat Vella,2,el Barri Gòtic,2 espanyols,1356
+2013,1,Ciutat Vella,3,la Barceloneta,2 espanyols,1535
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",2 espanyols,2011
+2013,2,Eixample,5,el Fort Pienc,2 espanyols,3448
+2013,2,Eixample,6,la Sagrada Família,2 espanyols,5958
+2013,2,Eixample,7,la Dreta de l'Eixample,2 espanyols,4436
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,2 espanyols,4595
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,2 espanyols,6664
+2013,2,Eixample,10,Sant Antoni,2 espanyols,4527
+2013,3,Sants-Montjuïc,11,el Poble Sec,2 espanyols,4140
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,2 espanyols,103
+2013,3,Sants-Montjuïc,13,la Marina de Port,2 espanyols,3264
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,2 espanyols,1177
+2013,3,Sants-Montjuïc,15,Hostafrancs,2 espanyols,1783
+2013,3,Sants-Montjuïc,16,la Bordeta,2 espanyols,2244
+2013,3,Sants-Montjuïc,17,Sants - Badal,2 espanyols,2963
+2013,3,Sants-Montjuïc,18,Sants,2 espanyols,4737
+2013,4,Les Corts,19,les Corts,2 espanyols,5260
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,2 espanyols,2840
+2013,4,Les Corts,21,Pedralbes,2 espanyols,1075
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2 espanyols,362
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,2 espanyols,2080
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,2 espanyols,1348
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,2 espanyols,2252
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,2 espanyols,4542
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,2 espanyols,2886
+2013,6,Gràcia,28,Vallcarca i els Penitents,2 espanyols,1759
+2013,6,Gràcia,29,el Coll,2 espanyols,833
+2013,6,Gràcia,30,la Salut,2 espanyols,1517
+2013,6,Gràcia,31,la Vila de Gràcia,2 espanyols,5787
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,2 espanyols,4163
+2013,7,Horta-Guinardó,33,el Baix Guinardó,2 espanyols,3143
+2013,7,Horta-Guinardó,34,Can Baró,2 espanyols,1085
+2013,7,Horta-Guinardó,35,el Guinardó,2 espanyols,4416
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,2 espanyols,1118
+2013,7,Horta-Guinardó,37,el Carmel,2 espanyols,3899
+2013,7,Horta-Guinardó,38,la Teixonera,2 espanyols,1455
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,2 espanyols,938
+2013,7,Horta-Guinardó,40,Montbau,2 espanyols,671
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,2 espanyols,669
+2013,7,Horta-Guinardó,42,la Clota,2 espanyols,70
+2013,7,Horta-Guinardó,43,Horta,2 espanyols,3208
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,2 espanyols,3161
+2013,8,Nou Barris,45,Porta,2 espanyols,3214
+2013,8,Nou Barris,46,el Turó de la Peira,2 espanyols,1808
+2013,8,Nou Barris,47,Can Peguera,2 espanyols,269
+2013,8,Nou Barris,48,la Guineueta,2 espanyols,2047
+2013,8,Nou Barris,49,Canyelles,2 espanyols,894
+2013,8,Nou Barris,50,les Roquetes,2 espanyols,1683
+2013,8,Nou Barris,51,Verdun,2 espanyols,1560
+2013,8,Nou Barris,52,la Prosperitat,2 espanyols,3432
+2013,8,Nou Barris,53,la Trinitat Nova,2 espanyols,849
+2013,8,Nou Barris,54,Torre Baró,2 espanyols,169
+2013,8,Nou Barris,55,Ciutat Meridiana,2 espanyols,1018
+2013,8,Nou Barris,56,Vallbona,2 espanyols,108
+2013,9,Sant Andreu,57,la Trinitat Vella,2 espanyols,897
+2013,9,Sant Andreu,58,Baró de Viver,2 espanyols,227
+2013,9,Sant Andreu,59,el Bon Pastor,2 espanyols,1355
+2013,9,Sant Andreu,60,Sant Andreu,2 espanyols,7073
+2013,9,Sant Andreu,61,la Sagrera,2 espanyols,3661
+2013,9,Sant Andreu,62,el Congrés i els Indians,2 espanyols,1667
+2013,9,Sant Andreu,63,Navas,2 espanyols,2681
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,2 espanyols,4704
+2013,10,Sant Martí,65,el Clot,2 espanyols,3011
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,2 espanyols,1593
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,2 espanyols,783
+2013,10,Sant Martí,68,el Poblenou,2 espanyols,3416
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,2 espanyols,1409
+2013,10,Sant Martí,70,el Besòs i el Maresme,2 espanyols,2332
+2013,10,Sant Martí,71,Provençals del Poblenou,2 espanyols,2261
+2013,10,Sant Martí,72,Sant Martí de Provençals,2 espanyols,3348
+2013,10,Sant Martí,73,la Verneda i la Pau,2 espanyols,3772
+2013,1,Ciutat Vella,1,el Raval,3 espanyols,1569
+2013,1,Ciutat Vella,2,el Barri Gòtic,3 espanyols,643
+2013,1,Ciutat Vella,3,la Barceloneta,3 espanyols,780
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",3 espanyols,961
+2013,2,Eixample,5,el Fort Pienc,3 espanyols,2151
+2013,2,Eixample,6,la Sagrada Família,3 espanyols,3463
+2013,2,Eixample,7,la Dreta de l'Eixample,3 espanyols,2497
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,3 espanyols,2512
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,3 espanyols,3839
+2013,2,Eixample,10,Sant Antoni,3 espanyols,2442
+2013,3,Sants-Montjuïc,11,el Poble Sec,3 espanyols,2250
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,3 espanyols,57
+2013,3,Sants-Montjuïc,13,la Marina de Port,3 espanyols,2274
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,3 espanyols,706
+2013,3,Sants-Montjuïc,15,Hostafrancs,3 espanyols,1028
+2013,3,Sants-Montjuïc,16,la Bordeta,3 espanyols,1420
+2013,3,Sants-Montjuïc,17,Sants - Badal,3 espanyols,1723
+2013,3,Sants-Montjuïc,18,Sants,3 espanyols,2747
+2013,4,Les Corts,19,les Corts,3 espanyols,3345
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,3 espanyols,1750
+2013,4,Les Corts,21,Pedralbes,3 espanyols,707
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",3 espanyols,288
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,3 espanyols,1480
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,3 espanyols,892
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,3 espanyols,1449
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,3 espanyols,2768
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,3 espanyols,1853
+2013,6,Gràcia,28,Vallcarca i els Penitents,3 espanyols,1044
+2013,6,Gràcia,29,el Coll,3 espanyols,536
+2013,6,Gràcia,30,la Salut,3 espanyols,861
+2013,6,Gràcia,31,la Vila de Gràcia,3 espanyols,3048
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,3 espanyols,2461
+2013,7,Horta-Guinardó,33,el Baix Guinardó,3 espanyols,1828
+2013,7,Horta-Guinardó,34,Can Baró,3 espanyols,644
+2013,7,Horta-Guinardó,35,el Guinardó,3 espanyols,2581
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,3 espanyols,709
+2013,7,Horta-Guinardó,37,el Carmel,3 espanyols,2426
+2013,7,Horta-Guinardó,38,la Teixonera,3 espanyols,855
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,3 espanyols,470
+2013,7,Horta-Guinardó,40,Montbau,3 espanyols,319
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,3 espanyols,424
+2013,7,Horta-Guinardó,42,la Clota,3 espanyols,37
+2013,7,Horta-Guinardó,43,Horta,3 espanyols,2047
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,3 espanyols,1939
+2013,8,Nou Barris,45,Porta,3 espanyols,1827
+2013,8,Nou Barris,46,el Turó de la Peira,3 espanyols,893
+2013,8,Nou Barris,47,Can Peguera,3 espanyols,177
+2013,8,Nou Barris,48,la Guineueta,3 espanyols,1209
+2013,8,Nou Barris,49,Canyelles,3 espanyols,635
+2013,8,Nou Barris,50,les Roquetes,3 espanyols,1067
+2013,8,Nou Barris,51,Verdun,3 espanyols,845
+2013,8,Nou Barris,52,la Prosperitat,3 espanyols,1992
+2013,8,Nou Barris,53,la Trinitat Nova,3 espanyols,495
+2013,8,Nou Barris,54,Torre Baró,3 espanyols,130
+2013,8,Nou Barris,55,Ciutat Meridiana,3 espanyols,608
+2013,8,Nou Barris,56,Vallbona,3 espanyols,101
+2013,9,Sant Andreu,57,la Trinitat Vella,3 espanyols,623
+2013,9,Sant Andreu,58,Baró de Viver,3 espanyols,159
+2013,9,Sant Andreu,59,el Bon Pastor,3 espanyols,891
+2013,9,Sant Andreu,60,Sant Andreu,3 espanyols,4759
+2013,9,Sant Andreu,61,la Sagrera,3 espanyols,2312
+2013,9,Sant Andreu,62,el Congrés i els Indians,3 espanyols,1029
+2013,9,Sant Andreu,63,Navas,3 espanyols,1653
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,3 espanyols,2821
+2013,10,Sant Martí,65,el Clot,3 espanyols,2019
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,3 espanyols,1004
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,3 espanyols,677
+2013,10,Sant Martí,68,el Poblenou,3 espanyols,2280
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,3 espanyols,873
+2013,10,Sant Martí,70,el Besòs i el Maresme,3 espanyols,1456
+2013,10,Sant Martí,71,Provençals del Poblenou,3 espanyols,1646
+2013,10,Sant Martí,72,Sant Martí de Provençals,3 espanyols,1989
+2013,10,Sant Martí,73,la Verneda i la Pau,3 espanyols,2258
+2013,1,Ciutat Vella,1,el Raval,4 espanyols o més,1359
+2013,1,Ciutat Vella,2,el Barri Gòtic,4 espanyols o més,491
+2013,1,Ciutat Vella,3,la Barceloneta,4 espanyols o més,594
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",4 espanyols o més,670
+2013,2,Eixample,5,el Fort Pienc,4 espanyols o més,1726
+2013,2,Eixample,6,la Sagrada Família,4 espanyols o més,2793
+2013,2,Eixample,7,la Dreta de l'Eixample,4 espanyols o més,2654
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,4 espanyols o més,2322
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,4 espanyols o més,3354
+2013,2,Eixample,10,Sant Antoni,4 espanyols o més,1890
+2013,3,Sants-Montjuïc,11,el Poble Sec,4 espanyols o més,1688
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,4 espanyols o més,85
+2013,3,Sants-Montjuïc,13,la Marina de Port,4 espanyols o més,2121
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,4 espanyols o més,546
+2013,3,Sants-Montjuïc,15,Hostafrancs,4 espanyols o més,794
+2013,3,Sants-Montjuïc,16,la Bordeta,4 espanyols o més,1131
+2013,3,Sants-Montjuïc,17,Sants - Badal,4 espanyols o més,1313
+2013,3,Sants-Montjuïc,18,Sants,4 espanyols o més,2255
+2013,4,Les Corts,19,les Corts,4 espanyols o més,3265
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,4 espanyols o més,1706
+2013,4,Les Corts,21,Pedralbes,4 espanyols o més,943
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",4 espanyols o més,397
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,4 espanyols o més,2141
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,4 espanyols o més,1621
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,4 espanyols o més,2292
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,4 espanyols o més,3873
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,4 espanyols o més,2111
+2013,6,Gràcia,28,Vallcarca i els Penitents,4 espanyols o més,1054
+2013,6,Gràcia,29,el Coll,4 espanyols o més,429
+2013,6,Gràcia,30,la Salut,4 espanyols o més,907
+2013,6,Gràcia,31,la Vila de Gràcia,4 espanyols o més,2481
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,4 espanyols o més,2096
+2013,7,Horta-Guinardó,33,el Baix Guinardó,4 espanyols o més,1504
+2013,7,Horta-Guinardó,34,Can Baró,4 espanyols o més,541
+2013,7,Horta-Guinardó,35,el Guinardó,4 espanyols o més,2030
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,4 espanyols o més,804
+2013,7,Horta-Guinardó,37,el Carmel,4 espanyols o més,2000
+2013,7,Horta-Guinardó,38,la Teixonera,4 espanyols o més,713
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,4 espanyols o més,414
+2013,7,Horta-Guinardó,40,Montbau,4 espanyols o més,298
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,4 espanyols o més,394
+2013,7,Horta-Guinardó,42,la Clota,4 espanyols o més,20
+2013,7,Horta-Guinardó,43,Horta,4 espanyols o més,1783
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,4 espanyols o més,1576
+2013,8,Nou Barris,45,Porta,4 espanyols o més,1234
+2013,8,Nou Barris,46,el Turó de la Peira,4 espanyols o més,743
+2013,8,Nou Barris,47,Can Peguera,4 espanyols o més,160
+2013,8,Nou Barris,48,la Guineueta,4 espanyols o més,1043
+2013,8,Nou Barris,49,Canyelles,4 espanyols o més,555
+2013,8,Nou Barris,50,les Roquetes,4 espanyols o més,987
+2013,8,Nou Barris,51,Verdun,4 espanyols o més,621
+2013,8,Nou Barris,52,la Prosperitat,4 espanyols o més,1504
+2013,8,Nou Barris,53,la Trinitat Nova,4 espanyols o més,429
+2013,8,Nou Barris,54,Torre Baró,4 espanyols o més,220
+2013,8,Nou Barris,55,Ciutat Meridiana,4 espanyols o més,535
+2013,8,Nou Barris,56,Vallbona,4 espanyols o més,87
+2013,9,Sant Andreu,57,la Trinitat Vella,4 espanyols o més,555
+2013,9,Sant Andreu,58,Baró de Viver,4 espanyols o més,204
+2013,9,Sant Andreu,59,el Bon Pastor,4 espanyols o més,950
+2013,9,Sant Andreu,60,Sant Andreu,4 espanyols o més,3906
+2013,9,Sant Andreu,61,la Sagrera,4 espanyols o més,1711
+2013,9,Sant Andreu,62,el Congrés i els Indians,4 espanyols o més,843
+2013,9,Sant Andreu,63,Navas,4 espanyols o més,1330
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,4 espanyols o més,2015
+2013,10,Sant Martí,65,el Clot,4 espanyols o més,1889
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,4 espanyols o més,794
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,4 espanyols o més,774
+2013,10,Sant Martí,68,el Poblenou,4 espanyols o més,2185
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,4 espanyols o més,847
+2013,10,Sant Martí,70,el Besòs i el Maresme,4 espanyols o més,1265
+2013,10,Sant Martí,71,Provençals del Poblenou,4 espanyols o més,1341
+2013,10,Sant Martí,72,Sant Martí de Provençals,4 espanyols o més,1666
+2013,10,Sant Martí,73,la Verneda i la Pau,4 espanyols o més,1980
+2013,1,Ciutat Vella,1,el Raval,1 estranger,3039
+2013,1,Ciutat Vella,2,el Barri Gòtic,1 estranger,1477
+2013,1,Ciutat Vella,3,la Barceloneta,1 estranger,1181
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",1 estranger,2105
+2013,2,Eixample,5,el Fort Pienc,1 estranger,1432
+2013,2,Eixample,6,la Sagrada Família,1 estranger,2295
+2013,2,Eixample,7,la Dreta de l'Eixample,1 estranger,2646
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1 estranger,2529
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,1 estranger,2546
+2013,2,Eixample,10,Sant Antoni,1 estranger,1905
+2013,3,Sants-Montjuïc,11,el Poble Sec,1 estranger,2148
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,1 estranger,24
+2013,3,Sants-Montjuïc,13,la Marina de Port,1 estranger,768
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,1 estranger,469
+2013,3,Sants-Montjuïc,15,Hostafrancs,1 estranger,740
+2013,3,Sants-Montjuïc,16,la Bordeta,1 estranger,558
+2013,3,Sants-Montjuïc,17,Sants - Badal,1 estranger,763
+2013,3,Sants-Montjuïc,18,Sants,1 estranger,1656
+2013,4,Les Corts,19,les Corts,1 estranger,1587
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,1 estranger,752
+2013,4,Les Corts,21,Pedralbes,1 estranger,443
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",1 estranger,196
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,1 estranger,941
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,1 estranger,573
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,1 estranger,989
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,1 estranger,2129
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,1 estranger,1400
+2013,6,Gràcia,28,Vallcarca i els Penitents,1 estranger,616
+2013,6,Gràcia,29,el Coll,1 estranger,298
+2013,6,Gràcia,30,la Salut,1 estranger,519
+2013,6,Gràcia,31,la Vila de Gràcia,1 estranger,3080
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,1 estranger,1405
+2013,7,Horta-Guinardó,33,el Baix Guinardó,1 estranger,875
+2013,7,Horta-Guinardó,34,Can Baró,1 estranger,322
+2013,7,Horta-Guinardó,35,el Guinardó,1 estranger,1207
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,1 estranger,175
+2013,7,Horta-Guinardó,37,el Carmel,1 estranger,746
+2013,7,Horta-Guinardó,38,la Teixonera,1 estranger,335
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,1 estranger,206
+2013,7,Horta-Guinardó,40,Montbau,1 estranger,119
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,1 estranger,120
+2013,7,Horta-Guinardó,42,la Clota,1 estranger,14
+2013,7,Horta-Guinardó,43,Horta,1 estranger,594
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,1 estranger,600
+2013,8,Nou Barris,45,Porta,1 estranger,569
+2013,8,Nou Barris,46,el Turó de la Peira,1 estranger,400
+2013,8,Nou Barris,47,Can Peguera,1 estranger,45
+2013,8,Nou Barris,48,la Guineueta,1 estranger,262
+2013,8,Nou Barris,49,Canyelles,1 estranger,81
+2013,8,Nou Barris,50,les Roquetes,1 estranger,382
+2013,8,Nou Barris,51,Verdun,1 estranger,334
+2013,8,Nou Barris,52,la Prosperitat,1 estranger,546
+2013,8,Nou Barris,53,la Trinitat Nova,1 estranger,191
+2013,8,Nou Barris,54,Torre Baró,1 estranger,52
+2013,8,Nou Barris,55,Ciutat Meridiana,1 estranger,283
+2013,8,Nou Barris,56,Vallbona,1 estranger,40
+2013,9,Sant Andreu,57,la Trinitat Vella,1 estranger,376
+2013,9,Sant Andreu,58,Baró de Viver,1 estranger,59
+2013,9,Sant Andreu,59,el Bon Pastor,1 estranger,236
+2013,9,Sant Andreu,60,Sant Andreu,1 estranger,1204
+2013,9,Sant Andreu,61,la Sagrera,1 estranger,753
+2013,9,Sant Andreu,62,el Congrés i els Indians,1 estranger,405
+2013,9,Sant Andreu,63,Navas,1 estranger,603
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,1 estranger,1403
+2013,10,Sant Martí,65,el Clot,1 estranger,840
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,1 estranger,680
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,1 estranger,490
+2013,10,Sant Martí,68,el Poblenou,1 estranger,1415
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,1 estranger,602
+2013,10,Sant Martí,70,el Besòs i el Maresme,1 estranger,583
+2013,10,Sant Martí,71,Provençals del Poblenou,1 estranger,603
+2013,10,Sant Martí,72,Sant Martí de Provençals,1 estranger,565
+2013,10,Sant Martí,73,la Verneda i la Pau,1 estranger,534
+2013,1,Ciutat Vella,1,el Raval,2 estrangers,1633
+2013,1,Ciutat Vella,2,el Barri Gòtic,2 estrangers,728
+2013,1,Ciutat Vella,3,la Barceloneta,2 estrangers,594
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",2 estrangers,1021
+2013,2,Eixample,5,el Fort Pienc,2 estrangers,582
+2013,2,Eixample,6,la Sagrada Família,2 estrangers,971
+2013,2,Eixample,7,la Dreta de l'Eixample,2 estrangers,951
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,2 estrangers,891
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,2 estrangers,1051
+2013,2,Eixample,10,Sant Antoni,2 estrangers,790
+2013,3,Sants-Montjuïc,11,el Poble Sec,2 estrangers,1065
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,2 estrangers,6
+2013,3,Sants-Montjuïc,13,la Marina de Port,2 estrangers,352
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,2 estrangers,177
+2013,3,Sants-Montjuïc,15,Hostafrancs,2 estrangers,305
+2013,3,Sants-Montjuïc,16,la Bordeta,2 estrangers,220
+2013,3,Sants-Montjuïc,17,Sants - Badal,2 estrangers,368
+2013,3,Sants-Montjuïc,18,Sants,2 estrangers,658
+2013,4,Les Corts,19,les Corts,2 estrangers,503
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,2 estrangers,247
+2013,4,Les Corts,21,Pedralbes,2 estrangers,132
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2 estrangers,56
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,2 estrangers,268
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,2 estrangers,133
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,2 estrangers,229
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,2 estrangers,573
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,2 estrangers,440
+2013,6,Gràcia,28,Vallcarca i els Penitents,2 estrangers,206
+2013,6,Gràcia,29,el Coll,2 estrangers,86
+2013,6,Gràcia,30,la Salut,2 estrangers,155
+2013,6,Gràcia,31,la Vila de Gràcia,2 estrangers,1141
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,2 estrangers,479
+2013,7,Horta-Guinardó,33,el Baix Guinardó,2 estrangers,371
+2013,7,Horta-Guinardó,34,Can Baró,2 estrangers,136
+2013,7,Horta-Guinardó,35,el Guinardó,2 estrangers,466
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,2 estrangers,52
+2013,7,Horta-Guinardó,37,el Carmel,2 estrangers,335
+2013,7,Horta-Guinardó,38,la Teixonera,2 estrangers,176
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,2 estrangers,73
+2013,7,Horta-Guinardó,40,Montbau,2 estrangers,55
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,2 estrangers,57
+2013,7,Horta-Guinardó,42,la Clota,2 estrangers,6
+2013,7,Horta-Guinardó,43,Horta,2 estrangers,206
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,2 estrangers,262
+2013,8,Nou Barris,45,Porta,2 estrangers,270
+2013,8,Nou Barris,46,el Turó de la Peira,2 estrangers,262
+2013,8,Nou Barris,47,Can Peguera,2 estrangers,15
+2013,8,Nou Barris,48,la Guineueta,2 estrangers,86
+2013,8,Nou Barris,49,Canyelles,2 estrangers,32
+2013,8,Nou Barris,50,les Roquetes,2 estrangers,249
+2013,8,Nou Barris,51,Verdun,2 estrangers,164
+2013,8,Nou Barris,52,la Prosperitat,2 estrangers,284
+2013,8,Nou Barris,53,la Trinitat Nova,2 estrangers,87
+2013,8,Nou Barris,54,Torre Baró,2 estrangers,19
+2013,8,Nou Barris,55,Ciutat Meridiana,2 estrangers,193
+2013,8,Nou Barris,56,Vallbona,2 estrangers,17
+2013,9,Sant Andreu,57,la Trinitat Vella,2 estrangers,189
+2013,9,Sant Andreu,58,Baró de Viver,2 estrangers,17
+2013,9,Sant Andreu,59,el Bon Pastor,2 estrangers,125
+2013,9,Sant Andreu,60,Sant Andreu,2 estrangers,402
+2013,9,Sant Andreu,61,la Sagrera,2 estrangers,346
+2013,9,Sant Andreu,62,el Congrés i els Indians,2 estrangers,153
+2013,9,Sant Andreu,63,Navas,2 estrangers,253
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,2 estrangers,639
+2013,10,Sant Martí,65,el Clot,2 estrangers,365
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,2 estrangers,243
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,2 estrangers,177
+2013,10,Sant Martí,68,el Poblenou,2 estrangers,590
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,2 estrangers,252
+2013,10,Sant Martí,70,el Besòs i el Maresme,2 estrangers,278
+2013,10,Sant Martí,71,Provençals del Poblenou,2 estrangers,232
+2013,10,Sant Martí,72,Sant Martí de Provençals,2 estrangers,240
+2013,10,Sant Martí,73,la Verneda i la Pau,2 estrangers,256
+2013,1,Ciutat Vella,1,el Raval,3 estrangers,1072
+2013,1,Ciutat Vella,2,el Barri Gòtic,3 estrangers,358
+2013,1,Ciutat Vella,3,la Barceloneta,3 estrangers,274
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",3 estrangers,531
+2013,2,Eixample,5,el Fort Pienc,3 estrangers,356
+2013,2,Eixample,6,la Sagrada Família,3 estrangers,539
+2013,2,Eixample,7,la Dreta de l'Eixample,3 estrangers,480
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,3 estrangers,462
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,3 estrangers,527
+2013,2,Eixample,10,Sant Antoni,3 estrangers,387
+2013,3,Sants-Montjuïc,11,el Poble Sec,3 estrangers,618
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,3 estrangers,6
+2013,3,Sants-Montjuïc,13,la Marina de Port,3 estrangers,231
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,3 estrangers,101
+2013,3,Sants-Montjuïc,15,Hostafrancs,3 estrangers,200
+2013,3,Sants-Montjuïc,16,la Bordeta,3 estrangers,137
+2013,3,Sants-Montjuïc,17,Sants - Badal,3 estrangers,256
+2013,3,Sants-Montjuïc,18,Sants,3 estrangers,409
+2013,4,Les Corts,19,les Corts,3 estrangers,288
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,3 estrangers,161
+2013,4,Les Corts,21,Pedralbes,3 estrangers,90
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",3 estrangers,28
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,3 estrangers,141
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,3 estrangers,67
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,3 estrangers,129
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,3 estrangers,226
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,3 estrangers,183
+2013,6,Gràcia,28,Vallcarca i els Penitents,3 estrangers,119
+2013,6,Gràcia,29,el Coll,3 estrangers,60
+2013,6,Gràcia,30,la Salut,3 estrangers,98
+2013,6,Gràcia,31,la Vila de Gràcia,3 estrangers,530
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,3 estrangers,248
+2013,7,Horta-Guinardó,33,el Baix Guinardó,3 estrangers,220
+2013,7,Horta-Guinardó,34,Can Baró,3 estrangers,76
+2013,7,Horta-Guinardó,35,el Guinardó,3 estrangers,328
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,3 estrangers,41
+2013,7,Horta-Guinardó,37,el Carmel,3 estrangers,284
+2013,7,Horta-Guinardó,38,la Teixonera,3 estrangers,110
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,3 estrangers,65
+2013,7,Horta-Guinardó,40,Montbau,3 estrangers,37
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,3 estrangers,33
+2013,7,Horta-Guinardó,42,la Clota,3 estrangers,2
+2013,7,Horta-Guinardó,43,Horta,3 estrangers,138
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,3 estrangers,190
+2013,8,Nou Barris,45,Porta,3 estrangers,233
+2013,8,Nou Barris,46,el Turó de la Peira,3 estrangers,215
+2013,8,Nou Barris,47,Can Peguera,3 estrangers,7
+2013,8,Nou Barris,48,la Guineueta,3 estrangers,65
+2013,8,Nou Barris,49,Canyelles,3 estrangers,24
+2013,8,Nou Barris,50,les Roquetes,3 estrangers,202
+2013,8,Nou Barris,51,Verdun,3 estrangers,124
+2013,8,Nou Barris,52,la Prosperitat,3 estrangers,211
+2013,8,Nou Barris,53,la Trinitat Nova,3 estrangers,72
+2013,8,Nou Barris,54,Torre Baró,3 estrangers,8
+2013,8,Nou Barris,55,Ciutat Meridiana,3 estrangers,148
+2013,8,Nou Barris,56,Vallbona,3 estrangers,9
+2013,9,Sant Andreu,57,la Trinitat Vella,3 estrangers,153
+2013,9,Sant Andreu,58,Baró de Viver,3 estrangers,22
+2013,9,Sant Andreu,59,el Bon Pastor,3 estrangers,98
+2013,9,Sant Andreu,60,Sant Andreu,3 estrangers,240
+2013,9,Sant Andreu,61,la Sagrera,3 estrangers,233
+2013,9,Sant Andreu,62,el Congrés i els Indians,3 estrangers,90
+2013,9,Sant Andreu,63,Navas,3 estrangers,169
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,3 estrangers,327
+2013,10,Sant Martí,65,el Clot,3 estrangers,209
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,3 estrangers,157
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,3 estrangers,92
+2013,10,Sant Martí,68,el Poblenou,3 estrangers,306
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,3 estrangers,126
+2013,10,Sant Martí,70,el Besòs i el Maresme,3 estrangers,222
+2013,10,Sant Martí,71,Provençals del Poblenou,3 estrangers,143
+2013,10,Sant Martí,72,Sant Martí de Provençals,3 estrangers,165
+2013,10,Sant Martí,73,la Verneda i la Pau,3 estrangers,173
+2013,1,Ciutat Vella,1,el Raval,4 estrangers o més,2518
+2013,1,Ciutat Vella,2,el Barri Gòtic,4 estrangers o més,490
+2013,1,Ciutat Vella,3,la Barceloneta,4 estrangers o més,314
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",4 estrangers o més,571
+2013,2,Eixample,5,el Fort Pienc,4 estrangers o més,519
+2013,2,Eixample,6,la Sagrada Família,4 estrangers o més,706
+2013,2,Eixample,7,la Dreta de l'Eixample,4 estrangers o més,482
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,4 estrangers o més,497
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,4 estrangers o més,753
+2013,2,Eixample,10,Sant Antoni,4 estrangers o més,559
+2013,3,Sants-Montjuïc,11,el Poble Sec,4 estrangers o més,1139
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,4 estrangers o més,14
+2013,3,Sants-Montjuïc,13,la Marina de Port,4 estrangers o més,386
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,4 estrangers o més,157
+2013,3,Sants-Montjuïc,15,Hostafrancs,4 estrangers o més,289
+2013,3,Sants-Montjuïc,16,la Bordeta,4 estrangers o més,208
+2013,3,Sants-Montjuïc,17,Sants - Badal,4 estrangers o més,403
+2013,3,Sants-Montjuïc,18,Sants,4 estrangers o més,592
+2013,4,Les Corts,19,les Corts,4 estrangers o més,328
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,4 estrangers o més,185
+2013,4,Les Corts,21,Pedralbes,4 estrangers o més,193
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",4 estrangers o més,42
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,4 estrangers o més,212
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,4 estrangers o més,84
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,4 estrangers o més,160
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,4 estrangers o més,270
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,4 estrangers o més,200
+2013,6,Gràcia,28,Vallcarca i els Penitents,4 estrangers o més,132
+2013,6,Gràcia,29,el Coll,4 estrangers o més,88
+2013,6,Gràcia,30,la Salut,4 estrangers o més,97
+2013,6,Gràcia,31,la Vila de Gràcia,4 estrangers o més,556
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,4 estrangers o més,277
+2013,7,Horta-Guinardó,33,el Baix Guinardó,4 estrangers o més,253
+2013,7,Horta-Guinardó,34,Can Baró,4 estrangers o més,88
+2013,7,Horta-Guinardó,35,el Guinardó,4 estrangers o més,435
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,4 estrangers o més,42
+2013,7,Horta-Guinardó,37,el Carmel,4 estrangers o més,437
+2013,7,Horta-Guinardó,38,la Teixonera,4 estrangers o més,125
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,4 estrangers o més,73
+2013,7,Horta-Guinardó,40,Montbau,4 estrangers o més,49
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,4 estrangers o més,48
+2013,7,Horta-Guinardó,42,la Clota,4 estrangers o més,11
+2013,7,Horta-Guinardó,43,Horta,4 estrangers o més,239
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,4 estrangers o més,333
+2013,8,Nou Barris,45,Porta,4 estrangers o més,383
+2013,8,Nou Barris,46,el Turó de la Peira,4 estrangers o més,379
+2013,8,Nou Barris,47,Can Peguera,4 estrangers o més,8
+2013,8,Nou Barris,48,la Guineueta,4 estrangers o més,110
+2013,8,Nou Barris,49,Canyelles,4 estrangers o més,30
+2013,8,Nou Barris,50,les Roquetes,4 estrangers o més,338
+2013,8,Nou Barris,51,Verdun,4 estrangers o més,221
+2013,8,Nou Barris,52,la Prosperitat,4 estrangers o més,413
+2013,8,Nou Barris,53,la Trinitat Nova,4 estrangers o més,153
+2013,8,Nou Barris,54,Torre Baró,4 estrangers o més,24
+2013,8,Nou Barris,55,Ciutat Meridiana,4 estrangers o més,404
+2013,8,Nou Barris,56,Vallbona,4 estrangers o més,15
+2013,9,Sant Andreu,57,la Trinitat Vella,4 estrangers o més,369
+2013,9,Sant Andreu,58,Baró de Viver,4 estrangers o més,19
+2013,9,Sant Andreu,59,el Bon Pastor,4 estrangers o més,205
+2013,9,Sant Andreu,60,Sant Andreu,4 estrangers o més,327
+2013,9,Sant Andreu,61,la Sagrera,4 estrangers o més,327
+2013,9,Sant Andreu,62,el Congrés i els Indians,4 estrangers o més,181
+2013,9,Sant Andreu,63,Navas,4 estrangers o més,295
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,4 estrangers o més,459
+2013,10,Sant Martí,65,el Clot,4 estrangers o més,353
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,4 estrangers o més,210
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,4 estrangers o més,104
+2013,10,Sant Martí,68,el Poblenou,4 estrangers o més,440
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,4 estrangers o més,171
+2013,10,Sant Martí,70,el Besòs i el Maresme,4 estrangers o més,679
+2013,10,Sant Martí,71,Provençals del Poblenou,4 estrangers o més,231
+2013,10,Sant Martí,72,Sant Martí de Provençals,4 estrangers o més,268
+2013,10,Sant Martí,73,la Verneda i la Pau,4 estrangers o més,315

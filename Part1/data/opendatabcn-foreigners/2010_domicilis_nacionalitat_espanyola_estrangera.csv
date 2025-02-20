@@ -1,0 +1,593 @@
+Any,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Nacionalitat,Nombre
+2010,1,Ciutat Vella,1,el Raval,1 espanyol,6591
+2010,1,Ciutat Vella,2,el Barri Gòtic,1 espanyol,2705
+2010,1,Ciutat Vella,3,la Barceloneta,1 espanyol,2723
+2010,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",1 espanyol,4053
+2010,2,Eixample,5,el Fort Pienc,1 espanyol,4239
+2010,2,Eixample,6,la Sagrada Família,1 espanyol,7883
+2010,2,Eixample,7,la Dreta de l'Eixample,1 espanyol,6539
+2010,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1 espanyol,6760
+2010,2,Eixample,9,la Nova Esquerra de l'Eixample,1 espanyol,8408
+2010,2,Eixample,10,Sant Antoni,1 espanyol,5971
+2010,3,Sants-Montjuïc,11,el Poble Sec,1 espanyol,5930
+2010,3,Sants-Montjuïc,12,la Marina del Prat Vermell,1 espanyol,150
+2010,3,Sants-Montjuïc,13,la Marina de Port,1 espanyol,3123
+2010,3,Sants-Montjuïc,14,la Font de la Guatlla,1 espanyol,1444
+2010,3,Sants-Montjuïc,15,Hostafrancs,1 espanyol,2277
+2010,3,Sants-Montjuïc,16,la Bordeta,1 espanyol,2150
+2010,3,Sants-Montjuïc,17,Sants - Badal,1 espanyol,3176
+2010,3,Sants-Montjuïc,18,Sants,1 espanyol,6167
+2010,4,Les Corts,19,les Corts,1 espanyol,5855
+2010,4,Les Corts,20,la Maternitat i Sant Ramon,1 espanyol,2695
+2010,4,Les Corts,21,Pedralbes,1 espanyol,1087
+2010,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",1 espanyol,367
+2010,5,Sarrià-Sant Gervasi,23,Sarrià,1 espanyol,2567
+2010,5,Sarrià-Sant Gervasi,24,les Tres Torres,1 espanyol,1408
+2010,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,1 espanyol,2738
+2010,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,1 espanyol,5917
+2010,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,1 espanyol,4256
+2010,6,Gràcia,28,Vallcarca i els Penitents,1 espanyol,2177
+2010,6,Gràcia,29,el Coll,1 espanyol,1005
+2010,6,Gràcia,30,la Salut,1 espanyol,1700
+2010,6,Gràcia,31,la Vila de Gràcia,1 espanyol,9332
+2010,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,1 espanyol,5151
+2010,7,Horta-Guinardó,33,el Baix Guinardó,1 espanyol,3609
+2010,7,Horta-Guinardó,34,Can Baró,1 espanyol,1222
+2010,7,Horta-Guinardó,35,el Guinardó,1 espanyol,5019
+2010,7,Horta-Guinardó,36,la Font d'en Fargues,1 espanyol,917
+2010,7,Horta-Guinardó,37,el Carmel,1 espanyol,3535
+2010,7,Horta-Guinardó,38,la Teixonera,1 espanyol,1353
+2010,7,Horta-Guinardó,39,Sant Genís dels Agudells,1 espanyol,850
+2010,7,Horta-Guinardó,40,Montbau,1 espanyol,746
+2010,7,Horta-Guinardó,41,la Vall d'Hebron,1 espanyol,612
+2010,7,Horta-Guinardó,42,la Clota,1 espanyol,52
+2010,7,Horta-Guinardó,43,Horta,1 espanyol,3125
+2010,8,Nou Barris,44,Vilapicina i la Torre Llobeta,1 espanyol,3120
+2010,8,Nou Barris,45,Porta,1 espanyol,3086
+2010,8,Nou Barris,46,el Turó de la Peira,1 espanyol,2194
+2010,8,Nou Barris,47,Can Peguera,1 espanyol,279
+2010,8,Nou Barris,48,la Guineueta,1 espanyol,1655
+2010,8,Nou Barris,49,Canyelles,1 espanyol,619
+2010,8,Nou Barris,50,les Roquetes,1 espanyol,1608
+2010,8,Nou Barris,51,Verdun,1 espanyol,1656
+2010,8,Nou Barris,52,la Prosperitat,1 espanyol,3019
+2010,8,Nou Barris,53,la Trinitat Nova,1 espanyol,1048
+2010,8,Nou Barris,54,Torre Baró,1 espanyol,162
+2010,8,Nou Barris,55,Ciutat Meridiana,1 espanyol,902
+2010,8,Nou Barris,56,Vallbona,1 espanyol,154
+2010,9,Sant Andreu,57,la Trinitat Vella,1 espanyol,842
+2010,9,Sant Andreu,58,Baró de Viver,1 espanyol,316
+2010,9,Sant Andreu,59,el Bon Pastor,1 espanyol,1211
+2010,9,Sant Andreu,60,Sant Andreu,1 espanyol,6535
+2010,9,Sant Andreu,61,la Sagrera,1 espanyol,3298
+2010,9,Sant Andreu,62,el Congrés i els Indians,1 espanyol,1993
+2010,9,Sant Andreu,63,Navas,1 espanyol,2622
+2010,10,Sant Martí,64,el Camp de l'Arpa del Clot,1 espanyol,5492
+2010,10,Sant Martí,65,el Clot,1 espanyol,3060
+2010,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,1 espanyol,1774
+2010,10,Sant Martí,67,la Vila Olímpica del Poblenou,1 espanyol,898
+2010,10,Sant Martí,68,el Poblenou,1 espanyol,4015
+2010,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,1 espanyol,1539
+2010,10,Sant Martí,70,el Besòs i el Maresme,1 espanyol,2397
+2010,10,Sant Martí,71,Provençals del Poblenou,1 espanyol,2100
+2010,10,Sant Martí,72,Sant Martí de Provençals,1 espanyol,3131
+2010,10,Sant Martí,73,la Verneda i la Pau,1 espanyol,2886
+2010,99,No consta,99,No consta,1 espanyol,42
+2010,1,Ciutat Vella,1,el Raval,2 espanyols,3620
+2010,1,Ciutat Vella,2,el Barri Gòtic,2 espanyols,1441
+2010,1,Ciutat Vella,3,la Barceloneta,2 espanyols,1684
+2010,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",2 espanyols,2149
+2010,2,Eixample,5,el Fort Pienc,2 espanyols,3468
+2010,2,Eixample,6,la Sagrada Família,2 espanyols,6070
+2010,2,Eixample,7,la Dreta de l'Eixample,2 espanyols,4437
+2010,2,Eixample,8,l'Antiga Esquerra de l'Eixample,2 espanyols,4590
+2010,2,Eixample,9,la Nova Esquerra de l'Eixample,2 espanyols,6776
+2010,2,Eixample,10,Sant Antoni,2 espanyols,4632
+2010,3,Sants-Montjuïc,11,el Poble Sec,2 espanyols,4233
+2010,3,Sants-Montjuïc,12,la Marina del Prat Vermell,2 espanyols,114
+2010,3,Sants-Montjuïc,13,la Marina de Port,2 espanyols,3287
+2010,3,Sants-Montjuïc,14,la Font de la Guatlla,2 espanyols,1185
+2010,3,Sants-Montjuïc,15,Hostafrancs,2 espanyols,1731
+2010,3,Sants-Montjuïc,16,la Bordeta,2 espanyols,2216
+2010,3,Sants-Montjuïc,17,Sants - Badal,2 espanyols,2878
+2010,3,Sants-Montjuïc,18,Sants,2 espanyols,4932
+2010,4,Les Corts,19,les Corts,2 espanyols,5214
+2010,4,Les Corts,20,la Maternitat i Sant Ramon,2 espanyols,2807
+2010,4,Les Corts,21,Pedralbes,2 espanyols,1067
+2010,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2 espanyols,345
+2010,5,Sarrià-Sant Gervasi,23,Sarrià,2 espanyols,2062
+2010,5,Sarrià-Sant Gervasi,24,les Tres Torres,2 espanyols,1286
+2010,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,2 espanyols,2211
+2010,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,2 espanyols,4657
+2010,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,2 espanyols,2946
+2010,6,Gràcia,28,Vallcarca i els Penitents,2 espanyols,1714
+2010,6,Gràcia,29,el Coll,2 espanyols,844
+2010,6,Gràcia,30,la Salut,2 espanyols,1542
+2010,6,Gràcia,31,la Vila de Gràcia,2 espanyols,5949
+2010,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,2 espanyols,4055
+2010,7,Horta-Guinardó,33,el Baix Guinardó,2 espanyols,3151
+2010,7,Horta-Guinardó,34,Can Baró,2 espanyols,1096
+2010,7,Horta-Guinardó,35,el Guinardó,2 espanyols,4441
+2010,7,Horta-Guinardó,36,la Font d'en Fargues,2 espanyols,1104
+2010,7,Horta-Guinardó,37,el Carmel,2 espanyols,4018
+2010,7,Horta-Guinardó,38,la Teixonera,2 espanyols,1403
+2010,7,Horta-Guinardó,39,Sant Genís dels Agudells,2 espanyols,946
+2010,7,Horta-Guinardó,40,Montbau,2 espanyols,702
+2010,7,Horta-Guinardó,41,la Vall d'Hebron,2 espanyols,630
+2010,7,Horta-Guinardó,42,la Clota,2 espanyols,63
+2010,7,Horta-Guinardó,43,Horta,2 espanyols,3247
+2010,8,Nou Barris,44,Vilapicina i la Torre Llobeta,2 espanyols,3210
+2010,8,Nou Barris,45,Porta,2 espanyols,3160
+2010,8,Nou Barris,46,el Turó de la Peira,2 espanyols,1877
+2010,8,Nou Barris,47,Can Peguera,2 espanyols,276
+2010,8,Nou Barris,48,la Guineueta,2 espanyols,2089
+2010,8,Nou Barris,49,Canyelles,2 espanyols,848
+2010,8,Nou Barris,50,les Roquetes,2 espanyols,1722
+2010,8,Nou Barris,51,Verdun,2 espanyols,1570
+2010,8,Nou Barris,52,la Prosperitat,2 espanyols,3437
+2010,8,Nou Barris,53,la Trinitat Nova,2 espanyols,833
+2010,8,Nou Barris,54,Torre Baró,2 espanyols,161
+2010,8,Nou Barris,55,Ciutat Meridiana,2 espanyols,1039
+2010,8,Nou Barris,56,Vallbona,2 espanyols,123
+2010,9,Sant Andreu,57,la Trinitat Vella,2 espanyols,886
+2010,9,Sant Andreu,58,Baró de Viver,2 espanyols,229
+2010,9,Sant Andreu,59,el Bon Pastor,2 espanyols,1403
+2010,9,Sant Andreu,60,Sant Andreu,2 espanyols,6829
+2010,9,Sant Andreu,61,la Sagrera,2 espanyols,3572
+2010,9,Sant Andreu,62,el Congrés i els Indians,2 espanyols,1788
+2010,9,Sant Andreu,63,Navas,2 espanyols,2632
+2010,10,Sant Martí,64,el Camp de l'Arpa del Clot,2 espanyols,4775
+2010,10,Sant Martí,65,el Clot,2 espanyols,2945
+2010,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,2 espanyols,1462
+2010,10,Sant Martí,67,la Vila Olímpica del Poblenou,2 espanyols,723
+2010,10,Sant Martí,68,el Poblenou,2 espanyols,3434
+2010,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,2 espanyols,1299
+2010,10,Sant Martí,70,el Besòs i el Maresme,2 espanyols,2413
+2010,10,Sant Martí,71,Provençals del Poblenou,2 espanyols,2211
+2010,10,Sant Martí,72,Sant Martí de Provençals,2 espanyols,3341
+2010,10,Sant Martí,73,la Verneda i la Pau,2 espanyols,3726
+2010,99,No consta,99,No consta,2 espanyols,26
+2010,1,Ciutat Vella,1,el Raval,3 espanyols,1591
+2010,1,Ciutat Vella,2,el Barri Gòtic,3 espanyols,667
+2010,1,Ciutat Vella,3,la Barceloneta,3 espanyols,820
+2010,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",3 espanyols,1003
+2010,2,Eixample,5,el Fort Pienc,3 espanyols,2177
+2010,2,Eixample,6,la Sagrada Família,3 espanyols,3566
+2010,2,Eixample,7,la Dreta de l'Eixample,3 espanyols,2594
+2010,2,Eixample,8,l'Antiga Esquerra de l'Eixample,3 espanyols,2590
+2010,2,Eixample,9,la Nova Esquerra de l'Eixample,3 espanyols,3912
+2010,2,Eixample,10,Sant Antoni,3 espanyols,2471
+2010,3,Sants-Montjuïc,11,el Poble Sec,3 espanyols,2301
+2010,3,Sants-Montjuïc,12,la Marina del Prat Vermell,3 espanyols,64
+2010,3,Sants-Montjuïc,13,la Marina de Port,3 espanyols,2329
+2010,3,Sants-Montjuïc,14,la Font de la Guatlla,3 espanyols,724
+2010,3,Sants-Montjuïc,15,Hostafrancs,3 espanyols,1060
+2010,3,Sants-Montjuïc,16,la Bordeta,3 espanyols,1447
+2010,3,Sants-Montjuïc,17,Sants - Badal,3 espanyols,1800
+2010,3,Sants-Montjuïc,18,Sants,3 espanyols,2625
+2010,4,Les Corts,19,les Corts,3 espanyols,3418
+2010,4,Les Corts,20,la Maternitat i Sant Ramon,3 espanyols,1784
+2010,4,Les Corts,21,Pedralbes,3 espanyols,727
+2010,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",3 espanyols,264
+2010,5,Sarrià-Sant Gervasi,23,Sarrià,3 espanyols,1416
+2010,5,Sarrià-Sant Gervasi,24,les Tres Torres,3 espanyols,953
+2010,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,3 espanyols,1479
+2010,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,3 espanyols,2801
+2010,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,3 espanyols,1868
+2010,6,Gràcia,28,Vallcarca i els Penitents,3 espanyols,1049
+2010,6,Gràcia,29,el Coll,3 espanyols,531
+2010,6,Gràcia,30,la Salut,3 espanyols,905
+2010,6,Gràcia,31,la Vila de Gràcia,3 espanyols,3074
+2010,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,3 espanyols,2463
+2010,7,Horta-Guinardó,33,el Baix Guinardó,3 espanyols,1885
+2010,7,Horta-Guinardó,34,Can Baró,3 espanyols,662
+2010,7,Horta-Guinardó,35,el Guinardó,3 espanyols,2644
+2010,7,Horta-Guinardó,36,la Font d'en Fargues,3 espanyols,747
+2010,7,Horta-Guinardó,37,el Carmel,3 espanyols,2568
+2010,7,Horta-Guinardó,38,la Teixonera,3 espanyols,831
+2010,7,Horta-Guinardó,39,Sant Genís dels Agudells,3 espanyols,535
+2010,7,Horta-Guinardó,40,Montbau,3 espanyols,328
+2010,7,Horta-Guinardó,41,la Vall d'Hebron,3 espanyols,468
+2010,7,Horta-Guinardó,42,la Clota,3 espanyols,30
+2010,7,Horta-Guinardó,43,Horta,3 espanyols,2141
+2010,8,Nou Barris,44,Vilapicina i la Torre Llobeta,3 espanyols,1996
+2010,8,Nou Barris,45,Porta,3 espanyols,1844
+2010,8,Nou Barris,46,el Turó de la Peira,3 espanyols,918
+2010,8,Nou Barris,47,Can Peguera,3 espanyols,183
+2010,8,Nou Barris,48,la Guineueta,3 espanyols,1249
+2010,8,Nou Barris,49,Canyelles,3 espanyols,682
+2010,8,Nou Barris,50,les Roquetes,3 espanyols,1112
+2010,8,Nou Barris,51,Verdun,3 espanyols,874
+2010,8,Nou Barris,52,la Prosperitat,3 espanyols,2097
+2010,8,Nou Barris,53,la Trinitat Nova,3 espanyols,539
+2010,8,Nou Barris,54,Torre Baró,3 espanyols,130
+2010,8,Nou Barris,55,Ciutat Meridiana,3 espanyols,617
+2010,8,Nou Barris,56,Vallbona,3 espanyols,93
+2010,9,Sant Andreu,57,la Trinitat Vella,3 espanyols,608
+2010,9,Sant Andreu,58,Baró de Viver,3 espanyols,159
+2010,9,Sant Andreu,59,el Bon Pastor,3 espanyols,955
+2010,9,Sant Andreu,60,Sant Andreu,3 espanyols,4733
+2010,9,Sant Andreu,61,la Sagrera,3 espanyols,2396
+2010,9,Sant Andreu,62,el Congrés i els Indians,3 espanyols,1049
+2010,9,Sant Andreu,63,Navas,3 espanyols,1664
+2010,10,Sant Martí,64,el Camp de l'Arpa del Clot,3 espanyols,2818
+2010,10,Sant Martí,65,el Clot,3 espanyols,2095
+2010,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,3 espanyols,983
+2010,10,Sant Martí,67,la Vila Olímpica del Poblenou,3 espanyols,669
+2010,10,Sant Martí,68,el Poblenou,3 espanyols,2254
+2010,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,3 espanyols,838
+2010,10,Sant Martí,70,el Besòs i el Maresme,3 espanyols,1477
+2010,10,Sant Martí,71,Provençals del Poblenou,3 espanyols,1636
+2010,10,Sant Martí,72,Sant Martí de Provençals,3 espanyols,2093
+2010,10,Sant Martí,73,la Verneda i la Pau,3 espanyols,2411
+2010,99,No consta,99,No consta,3 espanyols,10
+2010,1,Ciutat Vella,1,el Raval,4 espanyols o més,1331
+2010,1,Ciutat Vella,2,el Barri Gòtic,4 espanyols o més,589
+2010,1,Ciutat Vella,3,la Barceloneta,4 espanyols o més,627
+2010,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",4 espanyols o més,709
+2010,2,Eixample,5,el Fort Pienc,4 espanyols o més,1807
+2010,2,Eixample,6,la Sagrada Família,4 espanyols o més,2903
+2010,2,Eixample,7,la Dreta de l'Eixample,4 espanyols o més,2678
+2010,2,Eixample,8,l'Antiga Esquerra de l'Eixample,4 espanyols o més,2302
+2010,2,Eixample,9,la Nova Esquerra de l'Eixample,4 espanyols o més,3437
+2010,2,Eixample,10,Sant Antoni,4 espanyols o més,1951
+2010,3,Sants-Montjuïc,11,el Poble Sec,4 espanyols o més,1750
+2010,3,Sants-Montjuïc,12,la Marina del Prat Vermell,4 espanyols o més,84
+2010,3,Sants-Montjuïc,13,la Marina de Port,4 espanyols o més,2083
+2010,3,Sants-Montjuïc,14,la Font de la Guatlla,4 espanyols o més,540
+2010,3,Sants-Montjuïc,15,Hostafrancs,4 espanyols o més,844
+2010,3,Sants-Montjuïc,16,la Bordeta,4 espanyols o més,1156
+2010,3,Sants-Montjuïc,17,Sants - Badal,4 espanyols o més,1360
+2010,3,Sants-Montjuïc,18,Sants,4 espanyols o més,2287
+2010,4,Les Corts,19,les Corts,4 espanyols o més,3346
+2010,4,Les Corts,20,la Maternitat i Sant Ramon,4 espanyols o més,1728
+2010,4,Les Corts,21,Pedralbes,4 espanyols o més,938
+2010,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",4 espanyols o més,403
+2010,5,Sarrià-Sant Gervasi,23,Sarrià,4 espanyols o més,2110
+2010,5,Sarrià-Sant Gervasi,24,les Tres Torres,4 espanyols o més,1563
+2010,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,4 espanyols o més,2175
+2010,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,4 espanyols o més,3785
+2010,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,4 espanyols o més,2105
+2010,6,Gràcia,28,Vallcarca i els Penitents,4 espanyols o més,1034
+2010,6,Gràcia,29,el Coll,4 espanyols o més,443
+2010,6,Gràcia,30,la Salut,4 espanyols o més,888
+2010,6,Gràcia,31,la Vila de Gràcia,4 espanyols o més,2440
+2010,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,4 espanyols o més,2189
+2010,7,Horta-Guinardó,33,el Baix Guinardó,4 espanyols o més,1538
+2010,7,Horta-Guinardó,34,Can Baró,4 espanyols o més,563
+2010,7,Horta-Guinardó,35,el Guinardó,4 espanyols o més,2001
+2010,7,Horta-Guinardó,36,la Font d'en Fargues,4 espanyols o més,819
+2010,7,Horta-Guinardó,37,el Carmel,4 espanyols o més,2054
+2010,7,Horta-Guinardó,38,la Teixonera,4 espanyols o més,709
+2010,7,Horta-Guinardó,39,Sant Genís dels Agudells,4 espanyols o més,401
+2010,7,Horta-Guinardó,40,Montbau,4 espanyols o més,291
+2010,7,Horta-Guinardó,41,la Vall d'Hebron,4 espanyols o més,402
+2010,7,Horta-Guinardó,42,la Clota,4 espanyols o més,20
+2010,7,Horta-Guinardó,43,Horta,4 espanyols o més,1793
+2010,8,Nou Barris,44,Vilapicina i la Torre Llobeta,4 espanyols o més,1554
+2010,8,Nou Barris,45,Porta,4 espanyols o més,1275
+2010,8,Nou Barris,46,el Turó de la Peira,4 espanyols o més,713
+2010,8,Nou Barris,47,Can Peguera,4 espanyols o més,162
+2010,8,Nou Barris,48,la Guineueta,4 espanyols o més,1046
+2010,8,Nou Barris,49,Canyelles,4 espanyols o més,602
+2010,8,Nou Barris,50,les Roquetes,4 espanyols o més,962
+2010,8,Nou Barris,51,Verdun,4 espanyols o més,620
+2010,8,Nou Barris,52,la Prosperitat,4 espanyols o més,1524
+2010,8,Nou Barris,53,la Trinitat Nova,4 espanyols o més,426
+2010,8,Nou Barris,54,Torre Baró,4 espanyols o més,218
+2010,8,Nou Barris,55,Ciutat Meridiana,4 espanyols o més,517
+2010,8,Nou Barris,56,Vallbona,4 espanyols o més,92
+2010,9,Sant Andreu,57,la Trinitat Vella,4 espanyols o més,536
+2010,9,Sant Andreu,58,Baró de Viver,4 espanyols o més,204
+2010,9,Sant Andreu,59,el Bon Pastor,4 espanyols o més,840
+2010,9,Sant Andreu,60,Sant Andreu,4 espanyols o més,3909
+2010,9,Sant Andreu,61,la Sagrera,4 espanyols o més,1762
+2010,9,Sant Andreu,62,el Congrés i els Indians,4 espanyols o més,784
+2010,9,Sant Andreu,63,Navas,4 espanyols o més,1358
+2010,10,Sant Martí,64,el Camp de l'Arpa del Clot,4 espanyols o més,2060
+2010,10,Sant Martí,65,el Clot,4 espanyols o més,1941
+2010,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,4 espanyols o més,777
+2010,10,Sant Martí,67,la Vila Olímpica del Poblenou,4 espanyols o més,763
+2010,10,Sant Martí,68,el Poblenou,4 espanyols o més,2069
+2010,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,4 espanyols o més,734
+2010,10,Sant Martí,70,el Besòs i el Maresme,4 espanyols o més,1298
+2010,10,Sant Martí,71,Provençals del Poblenou,4 espanyols o més,1302
+2010,10,Sant Martí,72,Sant Martí de Provençals,4 espanyols o més,1662
+2010,10,Sant Martí,73,la Verneda i la Pau,4 espanyols o més,1988
+2010,99,No consta,99,No consta,4 espanyols o més,8
+2010,1,Ciutat Vella,1,el Raval,1 estranger,2927
+2010,1,Ciutat Vella,2,el Barri Gòtic,1 estranger,1427
+2010,1,Ciutat Vella,3,la Barceloneta,1 estranger,1039
+2010,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",1 estranger,1965
+2010,2,Eixample,5,el Fort Pienc,1 estranger,1317
+2010,2,Eixample,6,la Sagrada Família,1 estranger,1982
+2010,2,Eixample,7,la Dreta de l'Eixample,1 estranger,2341
+2010,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1 estranger,2278
+2010,2,Eixample,9,la Nova Esquerra de l'Eixample,1 estranger,2320
+2010,2,Eixample,10,Sant Antoni,1 estranger,1694
+2010,3,Sants-Montjuïc,11,el Poble Sec,1 estranger,1831
+2010,3,Sants-Montjuïc,12,la Marina del Prat Vermell,1 estranger,19
+2010,3,Sants-Montjuïc,13,la Marina de Port,1 estranger,692
+2010,3,Sants-Montjuïc,14,la Font de la Guatlla,1 estranger,385
+2010,3,Sants-Montjuïc,15,Hostafrancs,1 estranger,653
+2010,3,Sants-Montjuïc,16,la Bordeta,1 estranger,489
+2010,3,Sants-Montjuïc,17,Sants - Badal,1 estranger,705
+2010,3,Sants-Montjuïc,18,Sants,1 estranger,1442
+2010,4,Les Corts,19,les Corts,1 estranger,1516
+2010,4,Les Corts,20,la Maternitat i Sant Ramon,1 estranger,662
+2010,4,Les Corts,21,Pedralbes,1 estranger,509
+2010,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",1 estranger,184
+2010,5,Sarrià-Sant Gervasi,23,Sarrià,1 estranger,960
+2010,5,Sarrià-Sant Gervasi,24,les Tres Torres,1 estranger,600
+2010,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,1 estranger,985
+2010,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,1 estranger,2056
+2010,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,1 estranger,1384
+2010,6,Gràcia,28,Vallcarca i els Penitents,1 estranger,614
+2010,6,Gràcia,29,el Coll,1 estranger,270
+2010,6,Gràcia,30,la Salut,1 estranger,435
+2010,6,Gràcia,31,la Vila de Gràcia,1 estranger,2830
+2010,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,1 estranger,1298
+2010,7,Horta-Guinardó,33,el Baix Guinardó,1 estranger,796
+2010,7,Horta-Guinardó,34,Can Baró,1 estranger,287
+2010,7,Horta-Guinardó,35,el Guinardó,1 estranger,1046
+2010,7,Horta-Guinardó,36,la Font d'en Fargues,1 estranger,190
+2010,7,Horta-Guinardó,37,el Carmel,1 estranger,683
+2010,7,Horta-Guinardó,38,la Teixonera,1 estranger,288
+2010,7,Horta-Guinardó,39,Sant Genís dels Agudells,1 estranger,202
+2010,7,Horta-Guinardó,40,Montbau,1 estranger,110
+2010,7,Horta-Guinardó,41,la Vall d'Hebron,1 estranger,132
+2010,7,Horta-Guinardó,42,la Clota,1 estranger,13
+2010,7,Horta-Guinardó,43,Horta,1 estranger,541
+2010,8,Nou Barris,44,Vilapicina i la Torre Llobeta,1 estranger,523
+2010,8,Nou Barris,45,Porta,1 estranger,464
+2010,8,Nou Barris,46,el Turó de la Peira,1 estranger,340
+2010,8,Nou Barris,47,Can Peguera,1 estranger,39
+2010,8,Nou Barris,48,la Guineueta,1 estranger,227
+2010,8,Nou Barris,49,Canyelles,1 estranger,73
+2010,8,Nou Barris,50,les Roquetes,1 estranger,366
+2010,8,Nou Barris,51,Verdun,1 estranger,267
+2010,8,Nou Barris,52,la Prosperitat,1 estranger,463
+2010,8,Nou Barris,53,la Trinitat Nova,1 estranger,153
+2010,8,Nou Barris,54,Torre Baró,1 estranger,48
+2010,8,Nou Barris,55,Ciutat Meridiana,1 estranger,240
+2010,8,Nou Barris,56,Vallbona,1 estranger,31
+2010,9,Sant Andreu,57,la Trinitat Vella,1 estranger,296
+2010,9,Sant Andreu,58,Baró de Viver,1 estranger,46
+2010,9,Sant Andreu,59,el Bon Pastor,1 estranger,215
+2010,9,Sant Andreu,60,Sant Andreu,1 estranger,1077
+2010,9,Sant Andreu,61,la Sagrera,1 estranger,654
+2010,9,Sant Andreu,62,el Congrés i els Indians,1 estranger,336
+2010,9,Sant Andreu,63,Navas,1 estranger,520
+2010,10,Sant Martí,64,el Camp de l'Arpa del Clot,1 estranger,1264
+2010,10,Sant Martí,65,el Clot,1 estranger,722
+2010,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,1 estranger,549
+2010,10,Sant Martí,67,la Vila Olímpica del Poblenou,1 estranger,448
+2010,10,Sant Martí,68,el Poblenou,1 estranger,1152
+2010,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,1 estranger,490
+2010,10,Sant Martí,70,el Besòs i el Maresme,1 estranger,484
+2010,10,Sant Martí,71,Provençals del Poblenou,1 estranger,458
+2010,10,Sant Martí,72,Sant Martí de Provençals,1 estranger,457
+2010,10,Sant Martí,73,la Verneda i la Pau,1 estranger,455
+2010,99,No consta,99,No consta,1 estranger,12
+2010,1,Ciutat Vella,1,el Raval,2 estrangers,1541
+2010,1,Ciutat Vella,2,el Barri Gòtic,2 estrangers,722
+2010,1,Ciutat Vella,3,la Barceloneta,2 estrangers,563
+2010,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",2 estrangers,892
+2010,2,Eixample,5,el Fort Pienc,2 estrangers,530
+2010,2,Eixample,6,la Sagrada Família,2 estrangers,889
+2010,2,Eixample,7,la Dreta de l'Eixample,2 estrangers,876
+2010,2,Eixample,8,l'Antiga Esquerra de l'Eixample,2 estrangers,872
+2010,2,Eixample,9,la Nova Esquerra de l'Eixample,2 estrangers,936
+2010,2,Eixample,10,Sant Antoni,2 estrangers,653
+2010,3,Sants-Montjuïc,11,el Poble Sec,2 estrangers,910
+2010,3,Sants-Montjuïc,12,la Marina del Prat Vermell,2 estrangers,4
+2010,3,Sants-Montjuïc,13,la Marina de Port,2 estrangers,331
+2010,3,Sants-Montjuïc,14,la Font de la Guatlla,2 estrangers,188
+2010,3,Sants-Montjuïc,15,Hostafrancs,2 estrangers,263
+2010,3,Sants-Montjuïc,16,la Bordeta,2 estrangers,213
+2010,3,Sants-Montjuïc,17,Sants - Badal,2 estrangers,318
+2010,3,Sants-Montjuïc,18,Sants,2 estrangers,625
+2010,4,Les Corts,19,les Corts,2 estrangers,495
+2010,4,Les Corts,20,la Maternitat i Sant Ramon,2 estrangers,274
+2010,4,Les Corts,21,Pedralbes,2 estrangers,136
+2010,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2 estrangers,40
+2010,5,Sarrià-Sant Gervasi,23,Sarrià,2 estrangers,252
+2010,5,Sarrià-Sant Gervasi,24,les Tres Torres,2 estrangers,162
+2010,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,2 estrangers,247
+2010,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,2 estrangers,546
+2010,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,2 estrangers,485
+2010,6,Gràcia,28,Vallcarca i els Penitents,2 estrangers,215
+2010,6,Gràcia,29,el Coll,2 estrangers,110
+2010,6,Gràcia,30,la Salut,2 estrangers,168
+2010,6,Gràcia,31,la Vila de Gràcia,2 estrangers,1123
+2010,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,2 estrangers,437
+2010,7,Horta-Guinardó,33,el Baix Guinardó,2 estrangers,329
+2010,7,Horta-Guinardó,34,Can Baró,2 estrangers,117
+2010,7,Horta-Guinardó,35,el Guinardó,2 estrangers,442
+2010,7,Horta-Guinardó,36,la Font d'en Fargues,2 estrangers,48
+2010,7,Horta-Guinardó,37,el Carmel,2 estrangers,341
+2010,7,Horta-Guinardó,38,la Teixonera,2 estrangers,125
+2010,7,Horta-Guinardó,39,Sant Genís dels Agudells,2 estrangers,71
+2010,7,Horta-Guinardó,40,Montbau,2 estrangers,42
+2010,7,Horta-Guinardó,41,la Vall d'Hebron,2 estrangers,42
+2010,7,Horta-Guinardó,42,la Clota,2 estrangers,4
+2010,7,Horta-Guinardó,43,Horta,2 estrangers,203
+2010,8,Nou Barris,44,Vilapicina i la Torre Llobeta,2 estrangers,232
+2010,8,Nou Barris,45,Porta,2 estrangers,239
+2010,8,Nou Barris,46,el Turó de la Peira,2 estrangers,212
+2010,8,Nou Barris,47,Can Peguera,2 estrangers,7
+2010,8,Nou Barris,48,la Guineueta,2 estrangers,95
+2010,8,Nou Barris,49,Canyelles,2 estrangers,32
+2010,8,Nou Barris,50,les Roquetes,2 estrangers,203
+2010,8,Nou Barris,51,Verdun,2 estrangers,124
+2010,8,Nou Barris,52,la Prosperitat,2 estrangers,256
+2010,8,Nou Barris,53,la Trinitat Nova,2 estrangers,84
+2010,8,Nou Barris,54,Torre Baró,2 estrangers,10
+2010,8,Nou Barris,55,Ciutat Meridiana,2 estrangers,182
+2010,8,Nou Barris,56,Vallbona,2 estrangers,10
+2010,9,Sant Andreu,57,la Trinitat Vella,2 estrangers,165
+2010,9,Sant Andreu,58,Baró de Viver,2 estrangers,11
+2010,9,Sant Andreu,59,el Bon Pastor,2 estrangers,113
+2010,9,Sant Andreu,60,Sant Andreu,2 estrangers,373
+2010,9,Sant Andreu,61,la Sagrera,2 estrangers,324
+2010,9,Sant Andreu,62,el Congrés i els Indians,2 estrangers,132
+2010,9,Sant Andreu,63,Navas,2 estrangers,241
+2010,10,Sant Martí,64,el Camp de l'Arpa del Clot,2 estrangers,539
+2010,10,Sant Martí,65,el Clot,2 estrangers,344
+2010,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,2 estrangers,251
+2010,10,Sant Martí,67,la Vila Olímpica del Poblenou,2 estrangers,148
+2010,10,Sant Martí,68,el Poblenou,2 estrangers,502
+2010,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,2 estrangers,205
+2010,10,Sant Martí,70,el Besòs i el Maresme,2 estrangers,259
+2010,10,Sant Martí,71,Provençals del Poblenou,2 estrangers,224
+2010,10,Sant Martí,72,Sant Martí de Provençals,2 estrangers,254
+2010,10,Sant Martí,73,la Verneda i la Pau,2 estrangers,188
+2010,99,No consta,99,No consta,2 estrangers,3
+2010,1,Ciutat Vella,1,el Raval,3 estrangers,919
+2010,1,Ciutat Vella,2,el Barri Gòtic,3 estrangers,391
+2010,1,Ciutat Vella,3,la Barceloneta,3 estrangers,284
+2010,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",3 estrangers,501
+2010,2,Eixample,5,el Fort Pienc,3 estrangers,324
+2010,2,Eixample,6,la Sagrada Família,3 estrangers,476
+2010,2,Eixample,7,la Dreta de l'Eixample,3 estrangers,441
+2010,2,Eixample,8,l'Antiga Esquerra de l'Eixample,3 estrangers,412
+2010,2,Eixample,9,la Nova Esquerra de l'Eixample,3 estrangers,567
+2010,2,Eixample,10,Sant Antoni,3 estrangers,401
+2010,3,Sants-Montjuïc,11,el Poble Sec,3 estrangers,591
+2010,3,Sants-Montjuïc,12,la Marina del Prat Vermell,3 estrangers,5
+2010,3,Sants-Montjuïc,13,la Marina de Port,3 estrangers,237
+2010,3,Sants-Montjuïc,14,la Font de la Guatlla,3 estrangers,87
+2010,3,Sants-Montjuïc,15,Hostafrancs,3 estrangers,173
+2010,3,Sants-Montjuïc,16,la Bordeta,3 estrangers,123
+2010,3,Sants-Montjuïc,17,Sants - Badal,3 estrangers,236
+2010,3,Sants-Montjuïc,18,Sants,3 estrangers,358
+2010,4,Les Corts,19,les Corts,3 estrangers,292
+2010,4,Les Corts,20,la Maternitat i Sant Ramon,3 estrangers,153
+2010,4,Les Corts,21,Pedralbes,3 estrangers,78
+2010,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",3 estrangers,27
+2010,5,Sarrià-Sant Gervasi,23,Sarrià,3 estrangers,137
+2010,5,Sarrià-Sant Gervasi,24,les Tres Torres,3 estrangers,55
+2010,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,3 estrangers,95
+2010,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,3 estrangers,273
+2010,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,3 estrangers,214
+2010,6,Gràcia,28,Vallcarca i els Penitents,3 estrangers,101
+2010,6,Gràcia,29,el Coll,3 estrangers,64
+2010,6,Gràcia,30,la Salut,3 estrangers,79
+2010,6,Gràcia,31,la Vila de Gràcia,3 estrangers,519
+2010,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,3 estrangers,238
+2010,7,Horta-Guinardó,33,el Baix Guinardó,3 estrangers,204
+2010,7,Horta-Guinardó,34,Can Baró,3 estrangers,64
+2010,7,Horta-Guinardó,35,el Guinardó,3 estrangers,290
+2010,7,Horta-Guinardó,36,la Font d'en Fargues,3 estrangers,33
+2010,7,Horta-Guinardó,37,el Carmel,3 estrangers,251
+2010,7,Horta-Guinardó,38,la Teixonera,3 estrangers,121
+2010,7,Horta-Guinardó,39,Sant Genís dels Agudells,3 estrangers,62
+2010,7,Horta-Guinardó,40,Montbau,3 estrangers,31
+2010,7,Horta-Guinardó,41,la Vall d'Hebron,3 estrangers,43
+2010,7,Horta-Guinardó,42,la Clota,3 estrangers,2
+2010,7,Horta-Guinardó,43,Horta,3 estrangers,127
+2010,8,Nou Barris,44,Vilapicina i la Torre Llobeta,3 estrangers,191
+2010,8,Nou Barris,45,Porta,3 estrangers,192
+2010,8,Nou Barris,46,el Turó de la Peira,3 estrangers,195
+2010,8,Nou Barris,47,Can Peguera,3 estrangers,3
+2010,8,Nou Barris,48,la Guineueta,3 estrangers,64
+2010,8,Nou Barris,49,Canyelles,3 estrangers,19
+2010,8,Nou Barris,50,les Roquetes,3 estrangers,174
+2010,8,Nou Barris,51,Verdun,3 estrangers,114
+2010,8,Nou Barris,52,la Prosperitat,3 estrangers,214
+2010,8,Nou Barris,53,la Trinitat Nova,3 estrangers,89
+2010,8,Nou Barris,54,Torre Baró,3 estrangers,11
+2010,8,Nou Barris,55,Ciutat Meridiana,3 estrangers,165
+2010,8,Nou Barris,56,Vallbona,3 estrangers,6
+2010,9,Sant Andreu,57,la Trinitat Vella,3 estrangers,149
+2010,9,Sant Andreu,58,Baró de Viver,3 estrangers,9
+2010,9,Sant Andreu,59,el Bon Pastor,3 estrangers,76
+2010,9,Sant Andreu,60,Sant Andreu,3 estrangers,234
+2010,9,Sant Andreu,61,la Sagrera,3 estrangers,211
+2010,9,Sant Andreu,62,el Congrés i els Indians,3 estrangers,91
+2010,9,Sant Andreu,63,Navas,3 estrangers,173
+2010,10,Sant Martí,64,el Camp de l'Arpa del Clot,3 estrangers,357
+2010,10,Sant Martí,65,el Clot,3 estrangers,226
+2010,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,3 estrangers,143
+2010,10,Sant Martí,67,la Vila Olímpica del Poblenou,3 estrangers,113
+2010,10,Sant Martí,68,el Poblenou,3 estrangers,294
+2010,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,3 estrangers,131
+2010,10,Sant Martí,70,el Besòs i el Maresme,3 estrangers,225
+2010,10,Sant Martí,71,Provençals del Poblenou,3 estrangers,147
+2010,10,Sant Martí,72,Sant Martí de Provençals,3 estrangers,147
+2010,10,Sant Martí,73,la Verneda i la Pau,3 estrangers,174
+2010,99,No consta,99,No consta,3 estrangers,0
+2010,1,Ciutat Vella,1,el Raval,4 estrangers o més,2338
+2010,1,Ciutat Vella,2,el Barri Gòtic,4 estrangers o més,557
+2010,1,Ciutat Vella,3,la Barceloneta,4 estrangers o més,365
+2010,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",4 estrangers o més,551
+2010,2,Eixample,5,el Fort Pienc,4 estrangers o més,550
+2010,2,Eixample,6,la Sagrada Família,4 estrangers o més,730
+2010,2,Eixample,7,la Dreta de l'Eixample,4 estrangers o més,482
+2010,2,Eixample,8,l'Antiga Esquerra de l'Eixample,4 estrangers o més,553
+2010,2,Eixample,9,la Nova Esquerra de l'Eixample,4 estrangers o més,732
+2010,2,Eixample,10,Sant Antoni,4 estrangers o més,584
+2010,3,Sants-Montjuïc,11,el Poble Sec,4 estrangers o més,1123
+2010,3,Sants-Montjuïc,12,la Marina del Prat Vermell,4 estrangers o més,9
+2010,3,Sants-Montjuïc,13,la Marina de Port,4 estrangers o més,443
+2010,3,Sants-Montjuïc,14,la Font de la Guatlla,4 estrangers o més,179
+2010,3,Sants-Montjuïc,15,Hostafrancs,4 estrangers o més,316
+2010,3,Sants-Montjuïc,16,la Bordeta,4 estrangers o més,246
+2010,3,Sants-Montjuïc,17,Sants - Badal,4 estrangers o més,423
+2010,3,Sants-Montjuïc,18,Sants,4 estrangers o més,731
+2010,4,Les Corts,19,les Corts,4 estrangers o més,379
+2010,4,Les Corts,20,la Maternitat i Sant Ramon,4 estrangers o més,209
+2010,4,Les Corts,21,Pedralbes,4 estrangers o més,187
+2010,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",4 estrangers o més,30
+2010,5,Sarrià-Sant Gervasi,23,Sarrià,4 estrangers o més,203
+2010,5,Sarrià-Sant Gervasi,24,les Tres Torres,4 estrangers o més,83
+2010,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,4 estrangers o més,129
+2010,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,4 estrangers o més,285
+2010,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,4 estrangers o més,267
+2010,6,Gràcia,28,Vallcarca i els Penitents,4 estrangers o més,152
+2010,6,Gràcia,29,el Coll,4 estrangers o més,81
+2010,6,Gràcia,30,la Salut,4 estrangers o més,128
+2010,6,Gràcia,31,la Vila de Gràcia,4 estrangers o més,643
+2010,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,4 estrangers o més,329
+2010,7,Horta-Guinardó,33,el Baix Guinardó,4 estrangers o més,313
+2010,7,Horta-Guinardó,34,Can Baró,4 estrangers o més,92
+2010,7,Horta-Guinardó,35,el Guinardó,4 estrangers o més,469
+2010,7,Horta-Guinardó,36,la Font d'en Fargues,4 estrangers o més,49
+2010,7,Horta-Guinardó,37,el Carmel,4 estrangers o més,507
+2010,7,Horta-Guinardó,38,la Teixonera,4 estrangers o més,174
+2010,7,Horta-Guinardó,39,Sant Genís dels Agudells,4 estrangers o més,77
+2010,7,Horta-Guinardó,40,Montbau,4 estrangers o més,50
+2010,7,Horta-Guinardó,41,la Vall d'Hebron,4 estrangers o més,46
+2010,7,Horta-Guinardó,42,la Clota,4 estrangers o més,11
+2010,7,Horta-Guinardó,43,Horta,4 estrangers o més,279
+2010,8,Nou Barris,44,Vilapicina i la Torre Llobeta,4 estrangers o més,352
+2010,8,Nou Barris,45,Porta,4 estrangers o més,348
+2010,8,Nou Barris,46,el Turó de la Peira,4 estrangers o més,511
+2010,8,Nou Barris,47,Can Peguera,4 estrangers o més,9
+2010,8,Nou Barris,48,la Guineueta,4 estrangers o més,121
+2010,8,Nou Barris,49,Canyelles,4 estrangers o més,36
+2010,8,Nou Barris,50,les Roquetes,4 estrangers o més,398
+2010,8,Nou Barris,51,Verdun,4 estrangers o més,254
+2010,8,Nou Barris,52,la Prosperitat,4 estrangers o més,456
+2010,8,Nou Barris,53,la Trinitat Nova,4 estrangers o més,168
+2010,8,Nou Barris,54,Torre Baró,4 estrangers o més,18
+2010,8,Nou Barris,55,Ciutat Meridiana,4 estrangers o més,483
+2010,8,Nou Barris,56,Vallbona,4 estrangers o més,16
+2010,9,Sant Andreu,57,la Trinitat Vella,4 estrangers o més,436
+2010,9,Sant Andreu,58,Baró de Viver,4 estrangers o més,13
+2010,9,Sant Andreu,59,el Bon Pastor,4 estrangers o més,285
+2010,9,Sant Andreu,60,Sant Andreu,4 estrangers o més,430
+2010,9,Sant Andreu,61,la Sagrera,4 estrangers o més,388
+2010,9,Sant Andreu,62,el Congrés i els Indians,4 estrangers o més,201
+2010,9,Sant Andreu,63,Navas,4 estrangers o més,283
+2010,10,Sant Martí,64,el Camp de l'Arpa del Clot,4 estrangers o més,511
+2010,10,Sant Martí,65,el Clot,4 estrangers o més,367
+2010,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,4 estrangers o més,227
+2010,10,Sant Martí,67,la Vila Olímpica del Poblenou,4 estrangers o més,119
+2010,10,Sant Martí,68,el Poblenou,4 estrangers o més,409
+2010,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,4 estrangers o més,130
+2010,10,Sant Martí,70,el Besòs i el Maresme,4 estrangers o més,675
+2010,10,Sant Martí,71,Provençals del Poblenou,4 estrangers o més,249
+2010,10,Sant Martí,72,Sant Martí de Provençals,4 estrangers o més,273
+2010,10,Sant Martí,73,la Verneda i la Pau,4 estrangers o més,342
+2010,99,No consta,99,No consta,4 estrangers o més,3
